@@ -1,0 +1,3 @@
+Este é um projeto feito em Java produzido para extrair e processar dados a partir dos logs do simulador COOJA.
+
+Para usá-lo basta executar o arquivo jar na pasta "dist".
