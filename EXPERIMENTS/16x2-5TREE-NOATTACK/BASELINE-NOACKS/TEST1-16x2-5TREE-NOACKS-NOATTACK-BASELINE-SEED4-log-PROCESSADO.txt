@@ -1,0 +1,1135 @@
+Processando arquivo: /home/daniel/contiki-ng/examples/EXPERIMENTS/16x2-5TREE-NOATTACK/BASELINE-NOACKS/TEST1-16x2-5TREE-NOACKS-NOATTACK-BASELINE-SEED4-log.txt
+
+ARQUIVO CONCLUIDO
+
+ATTACK STARTED AT: null
+LAST REACTION AT: null
+FIRST LOCAL REACTION AT: null
+FIRST ROOT NOTIFICATION RECEIVED AT: null
+
+
+
+==== COUNTERS
+DATA MESSAGES: 891
+DATA ACKS....: 0 (+0,00%, over DATA messages only)
+CONTROL MESSAGES: 0 (+0,00%, over DATA + ACKS messages)
+    RVs..: 0
+    RKs..: 0
+    ARs..: 0
+    FLs..: 0
+    FKs..: 0
+
+
+
+Conversas do Mote 2
+	Data Message: DM-0-018-TESTE MSG DE DADOS;02010000AA;, HMAC: 02010000AA, Para: 1, Enviada: 69.116, Recebida: 69.139592, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;02010001AA;, HMAC: 02010001AA, Para: 1, Enviada: 129.879, Recebida: 129.906592, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;02010002AA;, HMAC: 02010002AA, Para: 1, Enviada: 189.567, Recebida: 189.576592, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;02010003AA;, HMAC: 02010003AA, Para: 1, Enviada: 249.889, Recebida: 249.902592, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;02010004AA;, HMAC: 02010004AA, Para: 1, Enviada: 309.822, Recebida: 309.888592, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;02010005AA;, HMAC: 02010005AA, Para: 1, Enviada: 369.134, Recebida: 369.157592, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;02010006AA;, HMAC: 02010006AA, Para: 1, Enviada: 428.406, Recebida: 428.412592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;02010007AA;, HMAC: 02010007AA, Para: 1, Enviada: 488.618, Recebida: 488.646592, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;02010008AA;, HMAC: 02010008AA, Para: 1, Enviada: 549.063, Recebida: 549.082592, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;02010009AA;, HMAC: 02010009AA, Para: 1, Enviada: 609.001, Recebida: 609.023592, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;02010010AA;, HMAC: 02010010AA, Para: 1, Enviada: 668.507, Recebida: 668.531624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;02010011AA;, HMAC: 02010011AA, Para: 1, Enviada: 727.844, Recebida: 727.886624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;02010012AA;, HMAC: 02010012AA, Para: 1, Enviada: 788.452, Recebida: 788.490624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;02010013AA;, HMAC: 02010013AA, Para: 1, Enviada: 849.298, Recebida: 849.328624, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;02010014AA;, HMAC: 02010014AA, Para: 1, Enviada: 909.932, Recebida: 909.955624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;02010015AA;, HMAC: 02010015AA, Para: 1, Enviada: 970.259, Recebida: 970.287624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;02010016AA;, HMAC: 02010016AA, Para: 1, Enviada: 1031.144, Recebida: 1031.177624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;02010017AA;, HMAC: 02010017AA, Para: 1, Enviada: 1091.335, Recebida: 1091.373624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;02010018AA;, HMAC: 02010018AA, Para: 1, Enviada: 1151.076, Recebida: 1151.107624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;02010019AA;, HMAC: 02010019AA, Para: 1, Enviada: 1210.485, Recebida: 1210.524624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;02010020AA;, HMAC: 02010020AA, Para: 1, Enviada: 1271.221, Recebida: 1271.254624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;02010021AA;, HMAC: 02010021AA, Para: 1, Enviada: 1331.371, Recebida: 1331.417624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;02010022AA;, HMAC: 02010022AA, Para: 1, Enviada: 1390.435, Recebida: 1390.477624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;02010023AA;, HMAC: 02010023AA, Para: 1, Enviada: 1449.668, Recebida: 1449.680624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;02010024AA;, HMAC: 02010024AA, Para: 1, Enviada: 1508.808, Recebida: 1508.840624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;02010025AA;, HMAC: 02010025AA, Para: 1, Enviada: 1567.925, Recebida: 1567.969624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;02010026AA;, HMAC: 02010026AA, Para: 1, Enviada: 1627.658, Recebida: 1627.674624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;02010027AA;, HMAC: 02010027AA, Para: 1, Enviada: 1687.717, Recebida: 1687.755624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;02010028AA;, HMAC: 02010028AA, Para: 1, Enviada: 1747.031, Recebida: 1747.039624, DELAY: 8 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;02010029AA;, HMAC: 02010029AA, Para: 1, Enviada: 1807.25, Recebida: 1807.271624, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;02010030AA;, HMAC: 02010030AA, Para: 1, Enviada: 1867.681, Recebida: 1867.699624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;02010031AA;, HMAC: 02010031AA, Para: 1, Enviada: 1928.587, Recebida: 1928.619624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;02010032AA;, HMAC: 02010032AA, Para: 1, Enviada: 1989.512, Recebida: 1989.542624, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;02010033AA;, HMAC: 02010033AA, Para: 1, Enviada: 2048.603, Recebida: 2048.647624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;02010034AA;, HMAC: 02010034AA, Para: 1, Enviada: 2107.664, Recebida: 2107.693624, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;02010035AA;, HMAC: 02010035AA, Para: 1, Enviada: 2167.017, Recebida: 2167.049624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;02010036AA;, HMAC: 02010036AA, Para: 1, Enviada: 2226.731, Recebida: 2226.747624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;02010037AA;, HMAC: 02010037AA, Para: 1, Enviada: 2287.169, Recebida: 2287.207624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;02010038AA;, HMAC: 02010038AA, Para: 1, Enviada: 2346.836, Recebida: 2346.862624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;02010039AA;, HMAC: 02010039AA, Para: 1, Enviada: 2406.509, Recebida: 2406.551624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;02010040AA;, HMAC: 02010040AA, Para: 1, Enviada: 2466.901, Recebida: 2466.920624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;02010041AA;, HMAC: 02010041AA, Para: 1, Enviada: 2526.101, Recebida: 2526.146624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;02010042AA;, HMAC: 02010042AA, Para: 1, Enviada: 2585.777, Recebida: 2585.792624, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;02010043AA;, HMAC: 02010043AA, Para: 1, Enviada: 2644.822, Recebida: 2644.847624, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;02010044AA;, HMAC: 02010044AA, Para: 1, Enviada: 2703.877, Recebida: 2703.922624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;02010045AA;, HMAC: 02010045AA, Para: 1, Enviada: 2763.192, Recebida: 2763.225624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;02010046AA;, HMAC: 02010046AA, Para: 1, Enviada: 2822.265, Recebida: 2822.282624, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;02010047AA;, HMAC: 02010047AA, Para: 1, Enviada: 2882.171, Recebida: 2882.191624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;02010048AA;, HMAC: 02010048AA, Para: 1, Enviada: 2941.37, Recebida: 2941.416624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;02010049AA;, HMAC: 02010049AA, Para: 1, Enviada: 3000.942, Recebida: 3000.976624, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;02010050AA;, HMAC: 02010050AA, Para: 1, Enviada: 3060.737, Recebida: 3060.776624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;02010051AA;, HMAC: 02010051AA, Para: 1, Enviada: 3120.275, Recebida: 3120.319624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;02010052AA;, HMAC: 02010052AA, Para: 1, Enviada: 3180.805, Recebida: 3180.841624, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;02010053AA;, HMAC: 02010053AA, Para: 1, Enviada: 3241.338, Recebida: 3241.346624, DELAY: 8 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;02010054AA;, HMAC: 02010054AA, Para: 1, Enviada: 3301.299, Recebida: 3301.334624, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;02010055AA;, HMAC: 02010055AA, Para: 1, Enviada: 3361.243, Recebida: 3361.272624, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;02010056AA;, HMAC: 02010056AA, Para: 1, Enviada: 3421.947, Recebida: 3421.963624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;02010057AA;, HMAC: 02010057AA, Para: 1, Enviada: 3482.142, Recebida: 3482.178624, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;02010058AA;, HMAC: 02010058AA, Para: 1, Enviada: 3542.398, Recebida: 3542.404624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 29 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 29 ms
+
+Conversas do Mote 3
+	Data Message: DM-0-018-TESTE MSG DE DADOS;03010000AA;, HMAC: 03010000AA, Para: 1, Enviada: 20.35, Recebida: 20.41488, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;03010001AA;, HMAC: 03010001AA, Para: 1, Enviada: 80.399, Recebida: 80.47788, DELAY: 78 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;03010002AA;, HMAC: 03010002AA, Para: 1, Enviada: 139.586, Recebida: 139.61588, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;03010003AA;, HMAC: 03010003AA, Para: 1, Enviada: 198.608, Recebida: 198.67588, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;03010004AA;, HMAC: 03010004AA, Para: 1, Enviada: 259.145, Recebida: 259.20388, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;03010005AA;, HMAC: 03010005AA, Para: 1, Enviada: 319.183, Recebida: 319.22288, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;03010006AA;, HMAC: 03010006AA, Para: 1, Enviada: 379.86, Recebida: 379.94488, DELAY: 84 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;03010007AA;, HMAC: 03010007AA, Para: 1, Enviada: 440.2, Recebida: 440.24988, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;03010008AA;, HMAC: 03010008AA, Para: 1, Enviada: 499.596, Recebida: 499.67688, DELAY: 80 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;03010009AA;, HMAC: 03010009AA, Para: 1, Enviada: 560.128, Recebida: 560.15188, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;03010010AA;, HMAC: 03010010AA, Para: 1, Enviada: 619.965, Recebida: 619.995912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;03010011AA;, HMAC: 03010011AA, Para: 1, Enviada: 680.017, Recebida: 680.064912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;03010012AA;, HMAC: 03010012AA, Para: 1, Enviada: 739.906, Recebida: 739.957912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;03010013AA;, HMAC: 03010013AA, Para: 1, Enviada: 800.731, Recebida: 800.773912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;03010014AA;, HMAC: 03010014AA, Para: 1, Enviada: 859.876, Recebida: 859.958912, DELAY: 82 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;03010015AA;, HMAC: 03010015AA, Para: 1, Enviada: 920.563, Recebida: 920.597912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;03010016AA;, HMAC: 03010016AA, Para: 1, Enviada: 979.897, Recebida: 979.972912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;03010017AA;, HMAC: 03010017AA, Para: 1, Enviada: 1040.552, Recebida: 1040.585912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;03010018AA;, HMAC: 03010018AA, Para: 1, Enviada: 1100.969, Recebida: 1101.012912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;03010019AA;, HMAC: 03010019AA, Para: 1, Enviada: 1160.385, Recebida: 1160.450912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;03010020AA;, HMAC: 03010020AA, Para: 1, Enviada: 1220.919, Recebida: 1220.969912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;03010021AA;, HMAC: 03010021AA, Para: 1, Enviada: 1281.414, Recebida: 1281.470912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;03010022AA;, HMAC: 03010022AA, Para: 1, Enviada: 1341.128, Recebida: 1341.207912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;03010023AA;, HMAC: 03010023AA, Para: 1, Enviada: 1400.831, Recebida: 1400.890912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;03010024AA;, HMAC: 03010024AA, Para: 1, Enviada: 1461.33, Recebida: 1461.384912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;03010025AA;, HMAC: 03010025AA, Para: 1, Enviada: 1521.948, Recebida: 1522.032912, DELAY: 84 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;03010026AA;, HMAC: 03010026AA, Para: 1, Enviada: 1581.01, Recebida: 1581.070912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;03010027AA;, HMAC: 03010027AA, Para: 1, Enviada: 1641.648, Recebida: 1641.713912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;03010028AA;, HMAC: 03010028AA, Para: 1, Enviada: 1702.129, Recebida: 1702.285912, DELAY: 156 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;03010029AA;, HMAC: 03010029AA, Para: 1, Enviada: 1761.16, Recebida: 1761.196912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;03010030AA;, HMAC: 03010030AA, Para: 1, Enviada: 1820.384, Recebida: 1820.405912, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;03010031AA;, HMAC: 03010031AA, Para: 1, Enviada: 1880.486, Recebida: 1880.534912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;03010032AA;, HMAC: 03010032AA, Para: 1, Enviada: 1941.231, Recebida: 1941.245792, DELAY: 14 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;03010033AA;, HMAC: 03010033AA, Para: 1, Enviada: 2000.751, Recebida: 2000.796912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;03010034AA;, HMAC: 03010034AA, Para: 1, Enviada: 2060.778, Recebida: 2060.824912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;03010035AA;, HMAC: 03010035AA, Para: 1, Enviada: 2120.586, Recebida: 2120.632912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;03010036AA;, HMAC: 03010036AA, Para: 1, Enviada: 2179.929, Recebida: 2179.992912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;03010037AA;, HMAC: 03010037AA, Para: 1, Enviada: 2238.933, Recebida: 2238.993912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;03010038AA;, HMAC: 03010038AA, Para: 1, Enviada: 2298.972, Recebida: 2299.041912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;03010039AA;, HMAC: 03010039AA, Para: 1, Enviada: 2358.096, Recebida: 2358.128912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;03010040AA;, HMAC: 03010040AA, Para: 1, Enviada: 2418.906, Recebida: 2418.970912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;03010041AA;, HMAC: 03010041AA, Para: 1, Enviada: 2478.546, Recebida: 2478.608912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;03010042AA;, HMAC: 03010042AA, Para: 1, Enviada: 2538.722, Recebida: 2538.753912, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;03010043AA;, HMAC: 03010043AA, Para: 1, Enviada: 2598.834, Recebida: 2598.851912, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;03010044AA;, HMAC: 03010044AA, Para: 1, Enviada: 2658.184, Recebida: 2658.236912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;03010045AA;, HMAC: 03010045AA, Para: 1, Enviada: 2717.891, Recebida: 2718.000912, DELAY: 109 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;03010046AA;, HMAC: 03010046AA, Para: 1, Enviada: 2777.801, Recebida: 2777.830792, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;03010047AA;, HMAC: 03010047AA, Para: 1, Enviada: 2836.953, Recebida: 2836.993912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;03010048AA;, HMAC: 03010048AA, Para: 1, Enviada: 2897.794, Recebida: 2897.850912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;03010049AA;, HMAC: 03010049AA, Para: 1, Enviada: 2958.364, Recebida: 2958.453912, DELAY: 89 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;03010050AA;, HMAC: 03010050AA, Para: 1, Enviada: 3019.217, Recebida: 3019.248912, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;03010051AA;, HMAC: 03010051AA, Para: 1, Enviada: 3079.711, Recebida: 3079.770912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;03010052AA;, HMAC: 03010052AA, Para: 1, Enviada: 3140.331, Recebida: 3140.386912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;03010053AA;, HMAC: 03010053AA, Para: 1, Enviada: 3199.865, Recebida: 3199.907912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;03010054AA;, HMAC: 03010054AA, Para: 1, Enviada: 3260.524, Recebida: 3260.581912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;03010055AA;, HMAC: 03010055AA, Para: 1, Enviada: 3321.257, Recebida: 3321.286912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;03010056AA;, HMAC: 03010056AA, Para: 1, Enviada: 3381.693, Recebida: 3381.769912, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;03010057AA;, HMAC: 03010057AA, Para: 1, Enviada: 3440.968, Recebida: 3441.013912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;03010058AA;, HMAC: 03010058AA, Para: 1, Enviada: 3501.386, Recebida: 3501.459912, DELAY: 73 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;03010059AA;, HMAC: 03010059AA, Para: 1, Enviada: 3561.169, Recebida: 3561.221912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 55 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 55 ms
+
+Conversas do Mote 4
+	Data Message: DM-0-018-TESTE MSG DE DADOS;04010000AA;, HMAC: 04010000AA, Para: 1, Enviada: 68.839, Recebida: 68.88188, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;04010001AA;, HMAC: 04010001AA, Para: 1, Enviada: 128.091, Recebida: 128.13588, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;04010002AA;, HMAC: 04010002AA, Para: 1, Enviada: 188.757, Recebida: 188.81688, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;04010003AA;, HMAC: 04010003AA, Para: 1, Enviada: 249.344, Recebida: 249.36488, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;04010004AA;, HMAC: 04010004AA, Para: 1, Enviada: 309.772, Recebida: 309.86188, DELAY: 89 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;04010005AA;, HMAC: 04010005AA, Para: 1, Enviada: 369.884, Recebida: 369.94588, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;04010006AA;, HMAC: 04010006AA, Para: 1, Enviada: 430.544, Recebida: 430.59888, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;04010007AA;, HMAC: 04010007AA, Para: 1, Enviada: 490.594, Recebida: 490.65988, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;04010008AA;, HMAC: 04010008AA, Para: 1, Enviada: 551.362, Recebida: 551.38788, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;04010009AA;, HMAC: 04010009AA, Para: 1, Enviada: 612.231, Recebida: 612.26988, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;04010010AA;, HMAC: 04010010AA, Para: 1, Enviada: 673.078, Recebida: 673.153912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;04010011AA;, HMAC: 04010011AA, Para: 1, Enviada: 734.036, Recebida: 734.084912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;04010012AA;, HMAC: 04010012AA, Para: 1, Enviada: 794.71, Recebida: 794.758912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;04010013AA;, HMAC: 04010013AA, Para: 1, Enviada: 855.0, Recebida: 855.074912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;04010014AA;, HMAC: 04010014AA, Para: 1, Enviada: 914.194, Recebida: 914.223912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;04010015AA;, HMAC: 04010015AA, Para: 1, Enviada: 975.186, Recebida: 975.240912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;04010016AA;, HMAC: 04010016AA, Para: 1, Enviada: 1034.944, Recebida: 1034.992912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;04010017AA;, HMAC: 04010017AA, Para: 1, Enviada: 1095.019, Recebida: 1095.074912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;04010018AA;, HMAC: 04010018AA, Para: 1, Enviada: 1154.35, Recebida: 1154.423912, DELAY: 73 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;04010019AA;, HMAC: 04010019AA, Para: 1, Enviada: 1213.981, Recebida: 1214.056912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;04010020AA;, HMAC: 04010020AA, Para: 1, Enviada: 1274.864, Recebida: 1274.903912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;04010021AA;, HMAC: 04010021AA, Para: 1, Enviada: 1335.003, Recebida: 1335.052912, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;04010022AA;, HMAC: 04010022AA, Para: 1, Enviada: 1394.087, Recebida: 1394.123792, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;04010023AA;, HMAC: 04010023AA, Para: 1, Enviada: 1453.558, Recebida: 1453.629912, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;04010024AA;, HMAC: 04010024AA, Para: 1, Enviada: 1514.177, Recebida: 1514.236912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;04010025AA;, HMAC: 04010025AA, Para: 1, Enviada: 1574.133, Recebida: 1574.194912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;04010026AA;, HMAC: 04010026AA, Para: 1, Enviada: 1634.597, Recebida: 1634.626912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;04010027AA;, HMAC: 04010027AA, Para: 1, Enviada: 1693.712, Recebida: 1693.755912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;04010028AA;, HMAC: 04010028AA, Para: 1, Enviada: 1754.014, Recebida: 1754.081912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;04010029AA;, HMAC: 04010029AA, Para: 1, Enviada: 1813.14, Recebida: 1813.212912, DELAY: 72 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;04010030AA;, HMAC: 04010030AA, Para: 1, Enviada: 1872.232, Recebida: 1872.287912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;04010031AA;, HMAC: 04010031AA, Para: 1, Enviada: 1932.08, Recebida: 1932.134912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;04010032AA;, HMAC: 04010032AA, Para: 1, Enviada: 1991.349, Recebida: 1991.370912, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;04010033AA;, HMAC: 04010033AA, Para: 1, Enviada: 2051.345, Recebida: 2051.422912, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;04010034AA;, HMAC: 04010034AA, Para: 1, Enviada: 2111.658, Recebida: 2111.679912, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;04010035AA;, HMAC: 04010035AA, Para: 1, Enviada: 2171.089, Recebida: 2171.141912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;04010036AA;, HMAC: 04010036AA, Para: 1, Enviada: 2230.606, Recebida: 2230.682912, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;04010037AA;, HMAC: 04010037AA, Para: 1, Enviada: 2290.42, Recebida: 2290.482912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;04010038AA;, HMAC: 04010038AA, Para: 1, Enviada: 2349.468, Recebida: 2349.500912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;04010039AA;, HMAC: 04010039AA, Para: 1, Enviada: 2409.778, Recebida: 2409.807912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;04010040AA;, HMAC: 04010040AA, Para: 1, Enviada: 2469.988, Recebida: 2470.038912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;04010041AA;, HMAC: 04010041AA, Para: 1, Enviada: 2530.789, Recebida: 2530.844912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;04010042AA;, HMAC: 04010042AA, Para: 1, Enviada: 2590.511, Recebida: 2590.563912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;04010043AA;, HMAC: 04010043AA, Para: 1, Enviada: 2649.98, Recebida: 2650.022912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;04010044AA;, HMAC: 04010044AA, Para: 1, Enviada: 2710.653, Recebida: 2710.700792, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;04010045AA;, HMAC: 04010045AA, Para: 1, Enviada: 2769.804, Recebida: 2769.868912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;04010046AA;, HMAC: 04010046AA, Para: 1, Enviada: 2829.01, Recebida: 2829.065912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;04010047AA;, HMAC: 04010047AA, Para: 1, Enviada: 2888.049, Recebida: 2888.064792, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;04010048AA;, HMAC: 04010048AA, Para: 1, Enviada: 2948.41, Recebida: 2948.487912, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;04010049AA;, HMAC: 04010049AA, Para: 1, Enviada: 3009.403, Recebida: 3009.443912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;04010050AA;, HMAC: 04010050AA, Para: 1, Enviada: 3069.642, Recebida: 3069.684912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;04010051AA;, HMAC: 04010051AA, Para: 1, Enviada: 3129.491, Recebida: 3129.551912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;04010052AA;, HMAC: 04010052AA, Para: 1, Enviada: 3188.579, Recebida: 3188.633912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;04010053AA;, HMAC: 04010053AA, Para: 1, Enviada: 3249.365, Recebida: 3249.428912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;04010054AA;, HMAC: 04010054AA, Para: 1, Enviada: 3310.225, Recebida: 3310.256792, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;04010055AA;, HMAC: 04010055AA, Para: 1, Enviada: 3369.607, Recebida: 3369.664912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;04010056AA;, HMAC: 04010056AA, Para: 1, Enviada: 3428.622, Recebida: 3428.690912, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;04010057AA;, HMAC: 04010057AA, Para: 1, Enviada: 3488.013, Recebida: 3488.070912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;04010058AA;, HMAC: 04010058AA, Para: 1, Enviada: 3547.638, Recebida: 3547.667912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 52 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 52 ms
+
+Conversas do Mote 5
+	Data Message: DM-0-018-TESTE MSG DE DADOS;05010000AA;, HMAC: 05010000AA, Para: 1, Enviada: 23.988, Recebida: 24.016592, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;05010001AA;, HMAC: 05010001AA, Para: 1, Enviada: 83.301, Recebida: 83.319592, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;05010002AA;, HMAC: 05010002AA, Para: 1, Enviada: 143.818, Recebida: 143.859592, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;05010003AA;, HMAC: 05010003AA, Para: 1, Enviada: 203.638, Recebida: 203.644592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;05010004AA;, HMAC: 05010004AA, Para: 1, Enviada: 263.843, Recebida: 263.881592, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;05010005AA;, HMAC: 05010005AA, Para: 1, Enviada: 324.439, Recebida: 324.469592, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;05010006AA;, HMAC: 05010006AA, Para: 1, Enviada: 384.266, Recebida: 384.281592, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;05010007AA;, HMAC: 05010007AA, Para: 1, Enviada: 444.605, Recebida: 444.616592, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;05010008AA;, HMAC: 05010008AA, Para: 1, Enviada: 504.02, Recebida: 504.046592, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;05010009AA;, HMAC: 05010009AA, Para: 1, Enviada: 563.812, Recebida: 563.825592, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;05010010AA;, HMAC: 05010010AA, Para: 1, Enviada: 623.927, Recebida: 623.964624, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;05010011AA;, HMAC: 05010011AA, Para: 1, Enviada: 683.364, Recebida: 683.402624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;05010012AA;, HMAC: 05010012AA, Para: 1, Enviada: 743.498, Recebida: 743.530624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;05010013AA;, HMAC: 05010013AA, Para: 1, Enviada: 803.821, Recebida: 803.828624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;05010014AA;, HMAC: 05010014AA, Para: 1, Enviada: 863.27, Recebida: 863.289624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;05010015AA;, HMAC: 05010015AA, Para: 1, Enviada: 923.849, Recebida: 923.874624, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;05010016AA;, HMAC: 05010016AA, Para: 1, Enviada: 982.971, Recebida: 982.981624, DELAY: 10 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;05010017AA;, HMAC: 05010017AA, Para: 1, Enviada: 1042.252, Recebida: 1042.264624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;05010018AA;, HMAC: 05010018AA, Para: 1, Enviada: 1102.005, Recebida: 1102.043624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;05010019AA;, HMAC: 05010019AA, Para: 1, Enviada: 1162.621, Recebida: 1162.641624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;05010020AA;, HMAC: 05010020AA, Para: 1, Enviada: 1221.757, Recebida: 1221.770624, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;05010021AA;, HMAC: 05010021AA, Para: 1, Enviada: 1282.119, Recebida: 1282.149624, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;05010022AA;, HMAC: 05010022AA, Para: 1, Enviada: 1342.352, Recebida: 1342.376624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;05010023AA;, HMAC: 05010023AA, Para: 1, Enviada: 1401.574, Recebida: 1401.588624, DELAY: 14 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;05010024AA;, HMAC: 05010024AA, Para: 1, Enviada: 1461.155, Recebida: 1461.178624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;05010025AA;, HMAC: 05010025AA, Para: 1, Enviada: 1521.853, Recebida: 1521.877624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;05010026AA;, HMAC: 05010026AA, Para: 1, Enviada: 1582.292, Recebida: 1582.325624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;05010027AA;, HMAC: 05010027AA, Para: 1, Enviada: 1642.443, Recebida: 1642.495624, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;05010028AA;, HMAC: 05010028AA, Para: 1, Enviada: 1702.183, Recebida: 1702.195624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;05010029AA;, HMAC: 05010029AA, Para: 1, Enviada: 1761.717, Recebida: 1761.746624, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;05010030AA;, HMAC: 05010030AA, Para: 1, Enviada: 1821.293, Recebida: 1821.319624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;05010031AA;, HMAC: 05010031AA, Para: 1, Enviada: 1880.387, Recebida: 1880.397624, DELAY: 10 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;05010032AA;, HMAC: 05010032AA, Para: 1, Enviada: 1940.988, Recebida: 1941.007624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;05010033AA;, HMAC: 05010033AA, Para: 1, Enviada: 2001.196, Recebida: 2001.242624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;05010034AA;, HMAC: 05010034AA, Para: 1, Enviada: 2061.479, Recebida: 2061.500624, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;05010035AA;, HMAC: 05010035AA, Para: 1, Enviada: 2121.345, Recebida: 2121.377624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;05010036AA;, HMAC: 05010036AA, Para: 1, Enviada: 2181.356, Recebida: 2181.363624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;05010037AA;, HMAC: 05010037AA, Para: 1, Enviada: 2241.406, Recebida: 2241.417624, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;05010038AA;, HMAC: 05010038AA, Para: 1, Enviada: 2301.154, Recebida: 2301.169624, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;05010039AA;, HMAC: 05010039AA, Para: 1, Enviada: 2361.851, Recebida: 2361.875624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;05010040AA;, HMAC: 05010040AA, Para: 1, Enviada: 2422.028, Recebida: 2422.035624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;05010041AA;, HMAC: 05010041AA, Para: 1, Enviada: 2482.53, Recebida: 2482.569624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;05010042AA;, HMAC: 05010042AA, Para: 1, Enviada: 2541.771, Recebida: 2541.808624, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;05010043AA;, HMAC: 05010043AA, Para: 1, Enviada: 2601.955, Recebida: 2601.964624, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;05010044AA;, HMAC: 05010044AA, Para: 1, Enviada: 2661.434, Recebida: 2661.461624, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;05010045AA;, HMAC: 05010045AA, Para: 1, Enviada: 2721.575, Recebida: 2721.615624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;05010046AA;, HMAC: 05010046AA, Para: 1, Enviada: 2781.867, Recebida: 2781.904624, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;05010047AA;, HMAC: 05010047AA, Para: 1, Enviada: 2841.146, Recebida: 2841.185624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;05010048AA;, HMAC: 05010048AA, Para: 1, Enviada: 2902.008, Recebida: 2902.014624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;05010049AA;, HMAC: 05010049AA, Para: 1, Enviada: 2961.968, Recebida: 2962.009624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;05010050AA;, HMAC: 05010050AA, Para: 1, Enviada: 3022.109, Recebida: 3022.117624, DELAY: 8 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;05010051AA;, HMAC: 05010051AA, Para: 1, Enviada: 3081.796, Recebida: 3081.808624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;05010052AA;, HMAC: 05010052AA, Para: 1, Enviada: 3141.636, Recebida: 3141.664624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;05010053AA;, HMAC: 05010053AA, Para: 1, Enviada: 3201.084, Recebida: 3201.107624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;05010054AA;, HMAC: 05010054AA, Para: 1, Enviada: 3260.297, Recebida: 3260.343624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;05010055AA;, HMAC: 05010055AA, Para: 1, Enviada: 3319.877, Recebida: 3319.903624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;05010056AA;, HMAC: 05010056AA, Para: 1, Enviada: 3380.404, Recebida: 3380.436624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;05010057AA;, HMAC: 05010057AA, Para: 1, Enviada: 3440.461, Recebida: 3440.500624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;05010058AA;, HMAC: 05010058AA, Para: 1, Enviada: 3500.079, Recebida: 3500.105624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;05010059AA;, HMAC: 05010059AA, Para: 1, Enviada: 3560.295, Recebida: 3560.328624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 25 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 25 ms
+
+Conversas do Mote 6
+	Data Message: DM-0-018-TESTE MSG DE DADOS;06010000AA;, HMAC: 06010000AA, Para: 1, Enviada: 74.961, Recebida: 74.98288, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;06010001AA;, HMAC: 06010001AA, Para: 1, Enviada: 135.672, Recebida: 135.75788, DELAY: 85 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;06010002AA;, HMAC: 06010002AA, Para: 1, Enviada: 195.406, Recebida: 195.45488, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;06010003AA;, HMAC: 06010003AA, Para: 1, Enviada: 256.214, Recebida: 256.26488, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;06010004AA;, HMAC: 06010004AA, Para: 1, Enviada: 315.837, Recebida: 315.89288, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;06010005AA;, HMAC: 06010005AA, Para: 1, Enviada: 376.617, Recebida: 376.65888, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;06010006AA;, HMAC: 06010006AA, Para: 1, Enviada: 437.609, Recebida: 437.67088, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;06010007AA;, HMAC: 06010007AA, Para: 1, Enviada: 498.324, Recebida: 498.38988, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;06010008AA;, HMAC: 06010008AA, Para: 1, Enviada: 557.51, Recebida: 557.53488, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;06010009AA;, HMAC: 06010009AA, Para: 1, Enviada: 617.373, Recebida: 617.45688, DELAY: 83 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;06010010AA;, HMAC: 06010010AA, Para: 1, Enviada: 676.897, Recebida: 676.939912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;06010011AA;, HMAC: 06010011AA, Para: 1, Enviada: 737.497, Recebida: 737.552912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;06010012AA;, HMAC: 06010012AA, Para: 1, Enviada: 797.754, Recebida: 797.795912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;06010013AA;, HMAC: 06010013AA, Para: 1, Enviada: 856.922, Recebida: 856.995912, DELAY: 73 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;06010014AA;, HMAC: 06010014AA, Para: 1, Enviada: 917.433, Recebida: 917.494912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;06010015AA;, HMAC: 06010015AA, Para: 1, Enviada: 976.952, Recebida: 976.988912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;06010016AA;, HMAC: 06010016AA, Para: 1, Enviada: 1037.347, Recebida: 1037.402912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;06010017AA;, HMAC: 06010017AA, Para: 1, Enviada: 1096.735, Recebida: 1096.758792, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;06010018AA;, HMAC: 06010018AA, Para: 1, Enviada: 1157.333, Recebida: 1157.410912, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;06010019AA;, HMAC: 06010019AA, Para: 1, Enviada: 1217.192, Recebida: 1217.242912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;06010020AA;, HMAC: 06010020AA, Para: 1, Enviada: 1276.385, Recebida: 1276.415912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;06010021AA;, HMAC: 06010021AA, Para: 1, Enviada: 1336.842, Recebida: 1336.901912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;06010022AA;, HMAC: 06010022AA, Para: 1, Enviada: 1397.433, Recebida: 1397.471912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;06010023AA;, HMAC: 06010023AA, Para: 1, Enviada: 1458.215, Recebida: 1458.257912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;06010024AA;, HMAC: 06010024AA, Para: 1, Enviada: 1519.163, Recebida: 1519.224912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;06010025AA;, HMAC: 06010025AA, Para: 1, Enviada: 1579.341, Recebida: 1579.371912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;06010026AA;, HMAC: 06010026AA, Para: 1, Enviada: 1638.496, Recebida: 1638.519912, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;06010027AA;, HMAC: 06010027AA, Para: 1, Enviada: 1698.103, Recebida: 1698.127912, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;06010028AA;, HMAC: 06010028AA, Para: 1, Enviada: 1758.695, Recebida: 1758.731912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;06010029AA;, HMAC: 06010029AA, Para: 1, Enviada: 1819.572, Recebida: 1819.638912, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;06010030AA;, HMAC: 06010030AA, Para: 1, Enviada: 1880.105, Recebida: 1880.190912, DELAY: 85 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;06010031AA;, HMAC: 06010031AA, Para: 1, Enviada: 1940.839, Recebida: 1940.873792, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;06010032AA;, HMAC: 06010032AA, Para: 1, Enviada: 2001.701, Recebida: 2001.780912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;06010033AA;, HMAC: 06010033AA, Para: 1, Enviada: 2062.549, Recebida: 2062.585792, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;06010034AA;, HMAC: 06010034AA, Para: 1, Enviada: 2123.344, Recebida: 2123.381912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;06010035AA;, HMAC: 06010035AA, Para: 1, Enviada: 2182.927, Recebida: 2183.002912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;06010036AA;, HMAC: 06010036AA, Para: 1, Enviada: 2243.273, Recebida: 2243.340912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;06010037AA;, HMAC: 06010037AA, Para: 1, Enviada: 2303.091, Recebida: 2303.146912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;06010038AA;, HMAC: 06010038AA, Para: 1, Enviada: 2362.839, Recebida: 2362.903912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;06010039AA;, HMAC: 06010039AA, Para: 1, Enviada: 2423.383, Recebida: 2423.425912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;06010040AA;, HMAC: 06010040AA, Para: 1, Enviada: 2483.553, Recebida: 2483.596912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;06010041AA;, HMAC: 06010041AA, Para: 1, Enviada: 2542.863, Recebida: 2542.906912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;06010042AA;, HMAC: 06010042AA, Para: 1, Enviada: 2602.031, Recebida: 2602.093912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;06010043AA;, HMAC: 06010043AA, Para: 1, Enviada: 2661.317, Recebida: 2661.339912, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;06010044AA;, HMAC: 06010044AA, Para: 1, Enviada: 2721.658, Recebida: 2721.697912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;06010045AA;, HMAC: 06010045AA, Para: 1, Enviada: 2781.107, Recebida: 2781.151912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;06010046AA;, HMAC: 06010046AA, Para: 1, Enviada: 2840.229, Recebida: 2840.294912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;06010047AA;, HMAC: 06010047AA, Para: 1, Enviada: 2899.722, Recebida: 2899.779912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;06010048AA;, HMAC: 06010048AA, Para: 1, Enviada: 2958.799, Recebida: 2958.840912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;06010049AA;, HMAC: 06010049AA, Para: 1, Enviada: 3018.209, Recebida: 3018.290912, DELAY: 81 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;06010050AA;, HMAC: 06010050AA, Para: 1, Enviada: 3078.376, Recebida: 3078.429792, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;06010051AA;, HMAC: 06010051AA, Para: 1, Enviada: 3138.755, Recebida: 3138.811912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;06010052AA;, HMAC: 06010052AA, Para: 1, Enviada: 3199.305, Recebida: 3199.351792, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;06010053AA;, HMAC: 06010053AA, Para: 1, Enviada: 3259.905, Recebida: 3259.945912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;06010054AA;, HMAC: 06010054AA, Para: 1, Enviada: 3319.585, Recebida: 3319.659912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;06010055AA;, HMAC: 06010055AA, Para: 1, Enviada: 3379.905, Recebida: 3379.959912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;06010056AA;, HMAC: 06010056AA, Para: 1, Enviada: 3439.193, Recebida: 3439.219912, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;06010057AA;, HMAC: 06010057AA, Para: 1, Enviada: 3499.771, Recebida: 3499.815912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;06010058AA;, HMAC: 06010058AA, Para: 1, Enviada: 3558.811, Recebida: 3558.880912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 51 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 51 ms
+
+Conversas do Mote 7
+	Data Message: DM-0-018-TESTE MSG DE DADOS;07010000AA;, HMAC: 07010000AA, Para: 1, Enviada: 63.341, Recebida: 63.39888, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;07010001AA;, HMAC: 07010001AA, Para: 1, Enviada: 123.292, Recebida: 123.31688, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;07010002AA;, HMAC: 07010002AA, Para: 1, Enviada: 183.682, Recebida: 183.72688, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;07010003AA;, HMAC: 07010003AA, Para: 1, Enviada: 243.011, Recebida: 243.06688, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;07010004AA;, HMAC: 07010004AA, Para: 1, Enviada: 303.388, Recebida: 303.44388, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;07010005AA;, HMAC: 07010005AA, Para: 1, Enviada: 363.588, Recebida: 363.66188, DELAY: 73 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;07010006AA;, HMAC: 07010006AA, Para: 1, Enviada: 423.687, Recebida: 423.76488, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;07010007AA;, HMAC: 07010007AA, Para: 1, Enviada: 483.709, Recebida: 483.74988, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;07010008AA;, HMAC: 07010008AA, Para: 1, Enviada: 544.693, Recebida: 544.76488, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;07010009AA;, HMAC: 07010009AA, Para: 1, Enviada: 605.545, Recebida: 605.57288, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;07010010AA;, HMAC: 07010010AA, Para: 1, Enviada: 666.333, Recebida: 666.378912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;07010011AA;, HMAC: 07010011AA, Para: 1, Enviada: 726.775, Recebida: 726.839912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;07010012AA;, HMAC: 07010012AA, Para: 1, Enviada: 787.317, Recebida: 787.368912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;07010013AA;, HMAC: 07010013AA, Para: 1, Enviada: 847.186, Recebida: 847.209912, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;07010014AA;, HMAC: 07010014AA, Para: 1, Enviada: 906.858, Recebida: 906.910912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;07010015AA;, HMAC: 07010015AA, Para: 1, Enviada: 966.849, Recebida: 966.873912, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;07010016AA;, HMAC: 07010016AA, Para: 1, Enviada: 1026.86, Recebida: 1026.896912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;07010017AA;, HMAC: 07010017AA, Para: 1, Enviada: 1086.37, Recebida: 1086.438912, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;07010018AA;, HMAC: 07010018AA, Para: 1, Enviada: 1146.82, Recebida: 1146.871912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;07010019AA;, HMAC: 07010019AA, Para: 1, Enviada: 1207.374, Recebida: 1207.420912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;07010020AA;, HMAC: 07010020AA, Para: 1, Enviada: 1266.583, Recebida: 1266.657912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;07010021AA;, HMAC: 07010021AA, Para: 1, Enviada: 1326.569, Recebida: 1326.620912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;07010022AA;, HMAC: 07010022AA, Para: 1, Enviada: 1387.145, Recebida: 1387.204912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;07010023AA;, HMAC: 07010023AA, Para: 1, Enviada: 1447.158, Recebida: 1447.194912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;07010024AA;, HMAC: 07010024AA, Para: 1, Enviada: 1507.106, Recebida: 1507.125912, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;07010025AA;, HMAC: 07010025AA, Para: 1, Enviada: 1566.236, Recebida: 1566.290912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;07010026AA;, HMAC: 07010026AA, Para: 1, Enviada: 1626.734, Recebida: 1626.773912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;07010027AA;, HMAC: 07010027AA, Para: 1, Enviada: 1686.836, Recebida: 1686.901912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;07010028AA;, HMAC: 07010028AA, Para: 1, Enviada: 1747.389, Recebida: 1747.421912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;07010029AA;, HMAC: 07010029AA, Para: 1, Enviada: 1806.971, Recebida: 1807.037912, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;07010030AA;, HMAC: 07010030AA, Para: 1, Enviada: 1867.45, Recebida: 1867.468912, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;07010031AA;, HMAC: 07010031AA, Para: 1, Enviada: 1926.963, Recebida: 1927.021912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;07010032AA;, HMAC: 07010032AA, Para: 1, Enviada: 1986.601, Recebida: 1986.656912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;07010033AA;, HMAC: 07010033AA, Para: 1, Enviada: 2046.384, Recebida: 2046.448912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;07010034AA;, HMAC: 07010034AA, Para: 1, Enviada: 2105.871, Recebida: 2105.903912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;07010035AA;, HMAC: 07010035AA, Para: 1, Enviada: 2166.427, Recebida: 2166.491912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;07010036AA;, HMAC: 07010036AA, Para: 1, Enviada: 2226.48, Recebida: 2226.554912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;07010037AA;, HMAC: 07010037AA, Para: 1, Enviada: 2287.109, Recebida: 2287.193912, DELAY: 84 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;07010038AA;, HMAC: 07010038AA, Para: 1, Enviada: 2346.783, Recebida: 2346.829912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;07010039AA;, HMAC: 07010039AA, Para: 1, Enviada: 2406.87, Recebida: 2406.988912, DELAY: 118 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;07010040AA;, HMAC: 07010040AA, Para: 1, Enviada: 2467.078, Recebida: 2467.129912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;07010041AA;, HMAC: 07010041AA, Para: 1, Enviada: 2527.497, Recebida: 2527.545912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;07010042AA;, HMAC: 07010042AA, Para: 1, Enviada: 2587.993, Recebida: 2588.057912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;07010043AA;, HMAC: 07010043AA, Para: 1, Enviada: 2647.032, Recebida: 2647.086912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;07010044AA;, HMAC: 07010044AA, Para: 1, Enviada: 2707.51, Recebida: 2707.561912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;07010045AA;, HMAC: 07010045AA, Para: 1, Enviada: 2768.152, Recebida: 2768.192912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;07010046AA;, HMAC: 07010046AA, Para: 1, Enviada: 2828.551, Recebida: 2828.579912, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;07010047AA;, HMAC: 07010047AA, Para: 1, Enviada: 2889.127, Recebida: 2889.157792, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;07010048AA;, HMAC: 07010048AA, Para: 1, Enviada: 2949.588, Recebida: 2949.636912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;07010049AA;, HMAC: 07010049AA, Para: 1, Enviada: 3008.888, Recebida: 3008.923912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;07010050AA;, HMAC: 07010050AA, Para: 1, Enviada: 3068.641, Recebida: 3068.706912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;07010051AA;, HMAC: 07010051AA, Para: 1, Enviada: 3129.393, Recebida: 3129.447912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;07010052AA;, HMAC: 07010052AA, Para: 1, Enviada: 3190.005, Recebida: 3190.049912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;07010053AA;, HMAC: 07010053AA, Para: 1, Enviada: 3249.82, Recebida: 3249.856912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;07010054AA;, HMAC: 07010054AA, Para: 1, Enviada: 3309.314, Recebida: 3309.381912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;07010055AA;, HMAC: 07010055AA, Para: 1, Enviada: 3368.766, Recebida: 3368.835912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;07010056AA;, HMAC: 07010056AA, Para: 1, Enviada: 3429.489, Recebida: 3429.558912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;07010057AA;, HMAC: 07010057AA, Para: 1, Enviada: 3488.829, Recebida: 3488.856912, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;07010058AA;, HMAC: 07010058AA, Para: 1, Enviada: 3548.732, Recebida: 3548.787912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 51 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 51 ms
+
+Conversas do Mote 8
+	Data Message: DM-0-018-TESTE MSG DE DADOS;08010000AA;, HMAC: 08010000AA, Para: 1, Enviada: 70.935, Recebida: 70.972592, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;08010001AA;, HMAC: 08010001AA, Para: 1, Enviada: 130.079, Recebida: 130.118592, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;08010002AA;, HMAC: 08010002AA, Para: 1, Enviada: 190.69, Recebida: 190.717592, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;08010003AA;, HMAC: 08010003AA, Para: 1, Enviada: 251.558, Recebida: 251.566592, DELAY: 8 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;08010004AA;, HMAC: 08010004AA, Para: 1, Enviada: 311.007, Recebida: 311.024592, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;08010005AA;, HMAC: 08010005AA, Para: 1, Enviada: 371.5, Recebida: 371.527592, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;08010006AA;, HMAC: 08010006AA, Para: 1, Enviada: 431.08, Recebida: 431.125592, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;08010007AA;, HMAC: 08010007AA, Para: 1, Enviada: 490.499, Recebida: 490.523592, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;08010008AA;, HMAC: 08010008AA, Para: 1, Enviada: 551.083, Recebida: 551.089592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;08010009AA;, HMAC: 08010009AA, Para: 1, Enviada: 610.976, Recebida: 611.011592, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;08010010AA;, HMAC: 08010010AA, Para: 1, Enviada: 671.063, Recebida: 671.089624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;08010011AA;, HMAC: 08010011AA, Para: 1, Enviada: 730.36, Recebida: 730.391624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;08010012AA;, HMAC: 08010012AA, Para: 1, Enviada: 789.717, Recebida: 789.726624, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;08010013AA;, HMAC: 08010013AA, Para: 1, Enviada: 849.515, Recebida: 849.546624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;08010014AA;, HMAC: 08010014AA, Para: 1, Enviada: 909.807, Recebida: 909.853624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;08010015AA;, HMAC: 08010015AA, Para: 1, Enviada: 970.46, Recebida: 970.506624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;08010016AA;, HMAC: 08010016AA, Para: 1, Enviada: 1030.127, Recebida: 1030.158624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;08010017AA;, HMAC: 08010017AA, Para: 1, Enviada: 1090.3, Recebida: 1090.342624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;08010018AA;, HMAC: 08010018AA, Para: 1, Enviada: 1150.179, Recebida: 1150.208624, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;08010019AA;, HMAC: 08010019AA, Para: 1, Enviada: 1209.881, Recebida: 1209.921624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;08010020AA;, HMAC: 08010020AA, Para: 1, Enviada: 1270.761, Recebida: 1270.791624, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;08010021AA;, HMAC: 08010021AA, Para: 1, Enviada: 1330.037, Recebida: 1330.079624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;08010022AA;, HMAC: 08010022AA, Para: 1, Enviada: 1389.864, Recebida: 1389.886624, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;08010023AA;, HMAC: 08010023AA, Para: 1, Enviada: 1449.14, Recebida: 1449.185624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;08010024AA;, HMAC: 08010024AA, Para: 1, Enviada: 1509.933, Recebida: 1509.972624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;08010025AA;, HMAC: 08010025AA, Para: 1, Enviada: 1569.368, Recebida: 1569.413624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;08010026AA;, HMAC: 08010026AA, Para: 1, Enviada: 1630.234, Recebida: 1630.275624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;08010027AA;, HMAC: 08010027AA, Para: 1, Enviada: 1691.062, Recebida: 1691.082624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;08010028AA;, HMAC: 08010028AA, Para: 1, Enviada: 1751.121, Recebida: 1751.133624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;08010029AA;, HMAC: 08010029AA, Para: 1, Enviada: 1811.478, Recebida: 1811.524624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;08010030AA;, HMAC: 08010030AA, Para: 1, Enviada: 1870.988, Recebida: 1871.016624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;08010031AA;, HMAC: 08010031AA, Para: 1, Enviada: 1930.791, Recebida: 1930.810624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;08010032AA;, HMAC: 08010032AA, Para: 1, Enviada: 1991.669, Recebida: 1991.688624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;08010033AA;, HMAC: 08010033AA, Para: 1, Enviada: 2050.766, Recebida: 2050.802624, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;08010034AA;, HMAC: 08010034AA, Para: 1, Enviada: 2111.369, Recebida: 2111.389624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;08010035AA;, HMAC: 08010035AA, Para: 1, Enviada: 2171.583, Recebida: 2171.606624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;08010036AA;, HMAC: 08010036AA, Para: 1, Enviada: 2232.405, Recebida: 2232.437624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;08010037AA;, HMAC: 08010037AA, Para: 1, Enviada: 2292.611, Recebida: 2292.653624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;08010038AA;, HMAC: 08010038AA, Para: 1, Enviada: 2353.099, Recebida: 2353.121624, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;08010039AA;, HMAC: 08010039AA, Para: 1, Enviada: 2413.587, Recebida: 2413.604624, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;08010040AA;, HMAC: 08010040AA, Para: 1, Enviada: 2473.811, Recebida: 2473.830624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;08010041AA;, HMAC: 08010041AA, Para: 1, Enviada: 2534.27, Recebida: 2534.288624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;08010042AA;, HMAC: 08010042AA, Para: 1, Enviada: 2595.111, Recebida: 2595.127624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;08010043AA;, HMAC: 08010043AA, Para: 1, Enviada: 2655.814, Recebida: 2655.840624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;08010044AA;, HMAC: 08010044AA, Para: 1, Enviada: 2716.746, Recebida: 2716.777624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;08010045AA;, HMAC: 08010045AA, Para: 1, Enviada: 2777.336, Recebida: 2777.354624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;08010046AA;, HMAC: 08010046AA, Para: 1, Enviada: 2837.605, Recebida: 2837.645624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;08010047AA;, HMAC: 08010047AA, Para: 1, Enviada: 2896.891, Recebida: 2896.908624, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;08010048AA;, HMAC: 08010048AA, Para: 1, Enviada: 2957.344, Recebida: 2957.379624, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;08010049AA;, HMAC: 08010049AA, Para: 1, Enviada: 3016.845, Recebida: 3016.883624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;08010050AA;, HMAC: 08010050AA, Para: 1, Enviada: 3076.791, Recebida: 3076.797624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;08010051AA;, HMAC: 08010051AA, Para: 1, Enviada: 3137.79, Recebida: 3137.820624, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;08010052AA;, HMAC: 08010052AA, Para: 1, Enviada: 3198.077, Recebida: 3198.099624, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;08010053AA;, HMAC: 08010053AA, Para: 1, Enviada: 3258.07, Recebida: 3258.088624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;08010054AA;, HMAC: 08010054AA, Para: 1, Enviada: 3318.57, Recebida: 3318.598624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;08010055AA;, HMAC: 08010055AA, Para: 1, Enviada: 3378.292, Recebida: 3378.337624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;08010056AA;, HMAC: 08010056AA, Para: 1, Enviada: 3439.16, Recebida: 3439.235624, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;08010057AA;, HMAC: 08010057AA, Para: 1, Enviada: 3498.597, Recebida: 3498.622624, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;08010058AA;, HMAC: 08010058AA, Para: 1, Enviada: 3559.259, Recebida: 3559.278624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 29 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 29 ms
+
+Conversas do Mote 9
+	Data Message: DM-0-018-TESTE MSG DE DADOS;09010000AA;, HMAC: 09010000AA, Para: 1, Enviada: 67.887, Recebida: 67.94588, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;09010001AA;, HMAC: 09010001AA, Para: 1, Enviada: 128.001, Recebida: 128.06788, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;09010002AA;, HMAC: 09010002AA, Para: 1, Enviada: 188.52, Recebida: 188.59588, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;09010003AA;, HMAC: 09010003AA, Para: 1, Enviada: 249.459, Recebida: 249.51188, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;09010004AA;, HMAC: 09010004AA, Para: 1, Enviada: 309.561, Recebida: 309.60288, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;09010005AA;, HMAC: 09010005AA, Para: 1, Enviada: 370.401, Recebida: 370.45688, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;09010006AA;, HMAC: 09010006AA, Para: 1, Enviada: 429.654, Recebida: 429.71088, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;09010007AA;, HMAC: 09010007AA, Para: 1, Enviada: 490.074, Recebida: 490.11088, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;09010008AA;, HMAC: 09010008AA, Para: 1, Enviada: 549.361, Recebida: 549.42488, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;09010009AA;, HMAC: 09010009AA, Para: 1, Enviada: 608.464, Recebida: 608.51588, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;09010010AA;, HMAC: 09010010AA, Para: 1, Enviada: 667.948, Recebida: 668.003912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;09010011AA;, HMAC: 09010011AA, Para: 1, Enviada: 727.756, Recebida: 727.809912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;09010012AA;, HMAC: 09010012AA, Para: 1, Enviada: 786.931, Recebida: 786.978912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;09010013AA;, HMAC: 09010013AA, Para: 1, Enviada: 847.823, Recebida: 847.889912, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;09010014AA;, HMAC: 09010014AA, Para: 1, Enviada: 907.28, Recebida: 907.355912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;09010015AA;, HMAC: 09010015AA, Para: 1, Enviada: 967.665, Recebida: 967.692912, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;09010016AA;, HMAC: 09010016AA, Para: 1, Enviada: 1027.481, Recebida: 1027.515912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;09010017AA;, HMAC: 09010017AA, Para: 1, Enviada: 1086.902, Recebida: 1086.961912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;09010018AA;, HMAC: 09010018AA, Para: 1, Enviada: 1147.658, Recebida: 1147.706912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;09010019AA;, HMAC: 09010019AA, Para: 1, Enviada: 1208.192, Recebida: 1208.214912, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;09010020AA;, HMAC: 09010020AA, Para: 1, Enviada: 1268.198, Recebida: 1268.241912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;09010021AA;, HMAC: 09010021AA, Para: 1, Enviada: 1328.48, Recebida: 1328.538912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;09010022AA;, HMAC: 09010022AA, Para: 1, Enviada: 1388.951, Recebida: 1389.002912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;09010023AA;, HMAC: 09010023AA, Para: 1, Enviada: 1448.819, Recebida: 1448.898912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;09010024AA;, HMAC: 09010024AA, Para: 1, Enviada: 1509.241, Recebida: 1509.286792, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;09010025AA;, HMAC: 09010025AA, Para: 1, Enviada: 1569.782, Recebida: 1569.819912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;09010026AA;, HMAC: 09010026AA, Para: 1, Enviada: 1629.425, Recebida: 1629.457912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;09010027AA;, HMAC: 09010027AA, Para: 1, Enviada: 1688.585, Recebida: 1688.666912, DELAY: 81 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;09010028AA;, HMAC: 09010028AA, Para: 1, Enviada: 1747.625, Recebida: 1747.674912, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;09010029AA;, HMAC: 09010029AA, Para: 1, Enviada: 1807.178, Recebida: 1807.215912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;09010030AA;, HMAC: 09010030AA, Para: 1, Enviada: 1867.361, Recebida: 1867.399912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;09010031AA;, HMAC: 09010031AA, Para: 1, Enviada: 1927.83, Recebida: 1927.871912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;09010032AA;, HMAC: 09010032AA, Para: 1, Enviada: 1987.827, Recebida: 1987.890912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;09010033AA;, HMAC: 09010033AA, Para: 1, Enviada: 2047.033, Recebida: 2047.090912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;09010034AA;, HMAC: 09010034AA, Para: 1, Enviada: 2107.529, Recebida: 2107.583912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;09010035AA;, HMAC: 09010035AA, Para: 1, Enviada: 2167.649, Recebida: 2167.716912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;09010036AA;, HMAC: 09010036AA, Para: 1, Enviada: 2227.062, Recebida: 2227.101912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;09010037AA;, HMAC: 09010037AA, Para: 1, Enviada: 2287.096, Recebida: 2287.121912, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;09010038AA;, HMAC: 09010038AA, Para: 1, Enviada: 2346.448, Recebida: 2346.517912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;09010039AA;, HMAC: 09010039AA, Para: 1, Enviada: 2405.713, Recebida: 2405.763912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;09010040AA;, HMAC: 09010040AA, Para: 1, Enviada: 2466.178, Recebida: 2466.233912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;09010041AA;, HMAC: 09010041AA, Para: 1, Enviada: 2526.482, Recebida: 2526.563912, DELAY: 81 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;09010042AA;, HMAC: 09010042AA, Para: 1, Enviada: 2587.457, Recebida: 2587.497912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;09010043AA;, HMAC: 09010043AA, Para: 1, Enviada: 2647.907, Recebida: 2647.977912, DELAY: 70 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;09010044AA;, HMAC: 09010044AA, Para: 1, Enviada: 2708.825, Recebida: 2708.881912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;09010045AA;, HMAC: 09010045AA, Para: 1, Enviada: 2769.153, Recebida: 2769.188912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;09010046AA;, HMAC: 09010046AA, Para: 1, Enviada: 2830.132, Recebida: 2830.171912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;09010047AA;, HMAC: 09010047AA, Para: 1, Enviada: 2889.207, Recebida: 2889.259912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;09010048AA;, HMAC: 09010048AA, Para: 1, Enviada: 2949.781, Recebida: 2949.853912, DELAY: 72 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;09010049AA;, HMAC: 09010049AA, Para: 1, Enviada: 3010.006, Recebida: 3010.068912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;09010050AA;, HMAC: 09010050AA, Para: 1, Enviada: 3069.452, Recebida: 3069.503912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;09010051AA;, HMAC: 09010051AA, Para: 1, Enviada: 3129.93, Recebida: 3129.992912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;09010052AA;, HMAC: 09010052AA, Para: 1, Enviada: 3190.415, Recebida: 3190.474912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;09010053AA;, HMAC: 09010053AA, Para: 1, Enviada: 3251.237, Recebida: 3251.297912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;09010054AA;, HMAC: 09010054AA, Para: 1, Enviada: 3310.349, Recebida: 3310.422912, DELAY: 73 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;09010055AA;, HMAC: 09010055AA, Para: 1, Enviada: 3370.025, Recebida: 3370.108912, DELAY: 83 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;09010056AA;, HMAC: 09010056AA, Para: 1, Enviada: 3430.538, Recebida: 3430.617912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;09010057AA;, HMAC: 09010057AA, Para: 1, Enviada: 3491.497, Recebida: 3491.548792, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;09010058AA;, HMAC: 09010058AA, Para: 1, Enviada: 3552.33, Recebida: 3552.395912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 54 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 54 ms
+
+Conversas do Mote 10
+	Data Message: DM-0-018-TESTE MSG DE DADOS;10010000AA;, HMAC: 10010000AA, Para: 1, Enviada: 65.071, Recebida: 65.14688, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;10010001AA;, HMAC: 10010001AA, Para: 1, Enviada: 125.956, Recebida: 126.01588, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;10010002AA;, HMAC: 10010002AA, Para: 1, Enviada: 185.668, Recebida: 185.72188, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;10010003AA;, HMAC: 10010003AA, Para: 1, Enviada: 245.943, Recebida: 245.97388, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;10010004AA;, HMAC: 10010004AA, Para: 1, Enviada: 305.997, Recebida: 306.03688, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;10010005AA;, HMAC: 10010005AA, Para: 1, Enviada: 365.161, Recebida: 365.18788, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;10010006AA;, HMAC: 10010006AA, Para: 1, Enviada: 425.433, Recebida: 425.47888, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;10010007AA;, HMAC: 10010007AA, Para: 1, Enviada: 485.313, Recebida: 485.39288, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;10010008AA;, HMAC: 10010008AA, Para: 1, Enviada: 544.905, Recebida: 544.93388, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;10010009AA;, HMAC: 10010009AA, Para: 1, Enviada: 605.4, Recebida: 605.45488, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;10010010AA;, HMAC: 10010010AA, Para: 1, Enviada: 664.752, Recebida: 664.828912, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;10010011AA;, HMAC: 10010011AA, Para: 1, Enviada: 725.485, Recebida: 725.574912, DELAY: 89 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;10010012AA;, HMAC: 10010012AA, Para: 1, Enviada: 784.665, Recebida: 784.709912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;10010013AA;, HMAC: 10010013AA, Para: 1, Enviada: 844.355, Recebida: 844.404912, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;10010014AA;, HMAC: 10010014AA, Para: 1, Enviada: 904.968, Recebida: 904.990792, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;10010015AA;, HMAC: 10010015AA, Para: 1, Enviada: 965.531, Recebida: 965.577912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;10010016AA;, HMAC: 10010016AA, Para: 1, Enviada: 1026.115, Recebida: 1026.168912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;10010017AA;, HMAC: 10010017AA, Para: 1, Enviada: 1086.483, Recebida: 1086.524912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;10010018AA;, HMAC: 10010018AA, Para: 1, Enviada: 1147.23, Recebida: 1147.307912, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;10010019AA;, HMAC: 10010019AA, Para: 1, Enviada: 1206.496, Recebida: 1206.535912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;10010020AA;, HMAC: 10010020AA, Para: 1, Enviada: 1266.7, Recebida: 1266.718912, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;10010021AA;, HMAC: 10010021AA, Para: 1, Enviada: 1326.331, Recebida: 1326.410912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;10010022AA;, HMAC: 10010022AA, Para: 1, Enviada: 1387.238, Recebida: 1387.276912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;10010023AA;, HMAC: 10010023AA, Para: 1, Enviada: 1447.977, Recebida: 1448.030912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;10010024AA;, HMAC: 10010024AA, Para: 1, Enviada: 1507.695, Recebida: 1507.720912, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;10010025AA;, HMAC: 10010025AA, Para: 1, Enviada: 1568.387, Recebida: 1568.456912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;10010026AA;, HMAC: 10010026AA, Para: 1, Enviada: 1627.734, Recebida: 1627.764912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;10010027AA;, HMAC: 10010027AA, Para: 1, Enviada: 1688.625, Recebida: 1688.673912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;10010028AA;, HMAC: 10010028AA, Para: 1, Enviada: 1747.754, Recebida: 1747.784912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;10010029AA;, HMAC: 10010029AA, Para: 1, Enviada: 1807.353, Recebida: 1807.398912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;10010030AA;, HMAC: 10010030AA, Para: 1, Enviada: 1866.858, Recebida: 1866.918912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;10010031AA;, HMAC: 10010031AA, Para: 1, Enviada: 1926.797, Recebida: 1926.849912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;10010032AA;, HMAC: 10010032AA, Para: 1, Enviada: 1986.067, Recebida: 1986.109912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;10010033AA;, HMAC: 10010033AA, Para: 1, Enviada: 2045.779, Recebida: 2045.813912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;10010034AA;, HMAC: 10010034AA, Para: 1, Enviada: 2106.141, Recebida: 2106.177912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;10010035AA;, HMAC: 10010035AA, Para: 1, Enviada: 2166.299, Recebida: 2166.361912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;10010036AA;, HMAC: 10010036AA, Para: 1, Enviada: 2226.034, Recebida: 2226.090912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;10010037AA;, HMAC: 10010037AA, Para: 1, Enviada: 2286.912, Recebida: 2286.964912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;10010038AA;, HMAC: 10010038AA, Para: 1, Enviada: 2346.754, Recebida: 2346.813912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;10010039AA;, HMAC: 10010039AA, Para: 1, Enviada: 2406.874, Recebida: 2407.026912, DELAY: 152 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;10010040AA;, HMAC: 10010040AA, Para: 1, Enviada: 2466.708, Recebida: 2466.775912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;10010041AA;, HMAC: 10010041AA, Para: 1, Enviada: 2526.091, Recebida: 2526.187912, DELAY: 96 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;10010042AA;, HMAC: 10010042AA, Para: 1, Enviada: 2585.738, Recebida: 2585.812912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;10010043AA;, HMAC: 10010043AA, Para: 1, Enviada: 2645.697, Recebida: 2645.743912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;10010044AA;, HMAC: 10010044AA, Para: 1, Enviada: 2704.888, Recebida: 2704.925912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;10010045AA;, HMAC: 10010045AA, Para: 1, Enviada: 2764.027, Recebida: 2764.066912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;10010046AA;, HMAC: 10010046AA, Para: 1, Enviada: 2824.165, Recebida: 2824.198912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;10010047AA;, HMAC: 10010047AA, Para: 1, Enviada: 2884.525, Recebida: 2884.575912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;10010048AA;, HMAC: 10010048AA, Para: 1, Enviada: 2944.041, Recebida: 2944.076912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;10010049AA;, HMAC: 10010049AA, Para: 1, Enviada: 3004.062, Recebida: 3004.089792, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;10010050AA;, HMAC: 10010050AA, Para: 1, Enviada: 3064.929, Recebida: 3064.981912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;10010051AA;, HMAC: 10010051AA, Para: 1, Enviada: 3124.831, Recebida: 3124.869912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;10010052AA;, HMAC: 10010052AA, Para: 1, Enviada: 3184.28, Recebida: 3184.363912, DELAY: 83 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;10010053AA;, HMAC: 10010053AA, Para: 1, Enviada: 3245.053, Recebida: 3245.072792, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;10010054AA;, HMAC: 10010054AA, Para: 1, Enviada: 3305.242, Recebida: 3305.282792, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;10010055AA;, HMAC: 10010055AA, Para: 1, Enviada: 3365.293, Recebida: 3365.328912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;10010056AA;, HMAC: 10010056AA, Para: 1, Enviada: 3425.305, Recebida: 3425.334912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;10010057AA;, HMAC: 10010057AA, Para: 1, Enviada: 3484.894, Recebida: 3484.934912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;10010058AA;, HMAC: 10010058AA, Para: 1, Enviada: 3545.348, Recebida: 3545.406912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 50 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 50 ms
+
+Conversas do Mote 11
+	Data Message: DM-0-018-TESTE MSG DE DADOS;11010000AA;, HMAC: 11010000AA, Para: 1, Enviada: 17.754, Recebida: 17.760592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;11010001AA;, HMAC: 11010001AA, Para: 1, Enviada: 76.918, Recebida: 76.925592, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;11010002AA;, HMAC: 11010002AA, Para: 1, Enviada: 136.761, Recebida: 136.791592, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;11010003AA;, HMAC: 11010003AA, Para: 1, Enviada: 196.968, Recebida: 196.977592, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;11010004AA;, HMAC: 11010004AA, Para: 1, Enviada: 257.384, Recebida: 257.390592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;11010005AA;, HMAC: 11010005AA, Para: 1, Enviada: 317.366, Recebida: 317.379592, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;11010006AA;, HMAC: 11010006AA, Para: 1, Enviada: 377.804, Recebida: 377.810592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;11010007AA;, HMAC: 11010007AA, Para: 1, Enviada: 437.03, Recebida: 437.046592, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;11010008AA;, HMAC: 11010008AA, Para: 1, Enviada: 496.751, Recebida: 496.757592, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;11010009AA;, HMAC: 11010009AA, Para: 1, Enviada: 556.945, Recebida: 556.971592, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;11010010AA;, HMAC: 11010010AA, Para: 1, Enviada: 617.136, Recebida: 617.160624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;11010011AA;, HMAC: 11010011AA, Para: 1, Enviada: 677.699, Recebida: 677.734624, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;11010012AA;, HMAC: 11010012AA, Para: 1, Enviada: 737.861, Recebida: 737.886624, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;11010013AA;, HMAC: 11010013AA, Para: 1, Enviada: 798.654, Recebida: 798.694624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;11010014AA;, HMAC: 11010014AA, Para: 1, Enviada: 859.326, Recebida: 859.368624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;11010015AA;, HMAC: 11010015AA, Para: 1, Enviada: 920.185, Recebida: 920.230624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;11010016AA;, HMAC: 11010016AA, Para: 1, Enviada: 980.301, Recebida: 980.307624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;11010017AA;, HMAC: 11010017AA, Para: 1, Enviada: 1040.235, Recebida: 1040.271624, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;11010018AA;, HMAC: 11010018AA, Para: 1, Enviada: 1099.963, Recebida: 1099.995624, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;11010019AA;, HMAC: 11010019AA, Para: 1, Enviada: 1159.324, Recebida: 1159.362624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;11010020AA;, HMAC: 11010020AA, Para: 1, Enviada: 1220.208, Recebida: 1220.254624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;11010021AA;, HMAC: 11010021AA, Para: 1, Enviada: 1280.178, Recebida: 1280.218624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;11010022AA;, HMAC: 11010022AA, Para: 1, Enviada: 1339.762, Recebida: 1339.798624, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;11010023AA;, HMAC: 11010023AA, Para: 1, Enviada: 1400.021, Recebida: 1400.056624, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;11010024AA;, HMAC: 11010024AA, Para: 1, Enviada: 1460.529, Recebida: 1460.562624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;11010025AA;, HMAC: 11010025AA, Para: 1, Enviada: 1520.612, Recebida: 1520.619624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;11010026AA;, HMAC: 11010026AA, Para: 1, Enviada: 1581.31, Recebida: 1581.348624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;11010027AA;, HMAC: 11010027AA, Para: 1, Enviada: 1641.675, Recebida: 1641.719624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;11010028AA;, HMAC: 11010028AA, Para: 1, Enviada: 1701.449, Recebida: 1701.466624, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;11010029AA;, HMAC: 11010029AA, Para: 1, Enviada: 1761.071, Recebida: 1761.077624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;11010030AA;, HMAC: 11010030AA, Para: 1, Enviada: 1821.896, Recebida: 1821.916624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;11010031AA;, HMAC: 11010031AA, Para: 1, Enviada: 1881.423, Recebida: 1881.464624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;11010032AA;, HMAC: 11010032AA, Para: 1, Enviada: 1942.069, Recebida: 1942.079624, DELAY: 10 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;11010033AA;, HMAC: 11010033AA, Para: 1, Enviada: 2001.275, Recebida: 2001.288624, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;11010034AA;, HMAC: 11010034AA, Para: 1, Enviada: 2061.323, Recebida: 2061.351624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;11010035AA;, HMAC: 11010035AA, Para: 1, Enviada: 2121.487, Recebida: 2121.501624, DELAY: 14 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;11010036AA;, HMAC: 11010036AA, Para: 1, Enviada: 2182.274, Recebida: 2182.391624, DELAY: 117 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;11010037AA;, HMAC: 11010037AA, Para: 1, Enviada: 2242.84, Recebida: 2242.850624, DELAY: 10 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;11010038AA;, HMAC: 11010038AA, Para: 1, Enviada: 2302.99, Recebida: 2303.035624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;11010039AA;, HMAC: 11010039AA, Para: 1, Enviada: 2363.133, Recebida: 2363.164624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;11010040AA;, HMAC: 11010040AA, Para: 1, Enviada: 2422.139, Recebida: 2422.153624, DELAY: 14 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;11010041AA;, HMAC: 11010041AA, Para: 1, Enviada: 2482.889, Recebida: 2482.935624, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;11010042AA;, HMAC: 11010042AA, Para: 1, Enviada: 2543.485, Recebida: 2543.505624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;11010043AA;, HMAC: 11010043AA, Para: 1, Enviada: 2603.3, Recebida: 2603.323624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;11010044AA;, HMAC: 11010044AA, Para: 1, Enviada: 2664.045, Recebida: 2664.088624, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;11010045AA;, HMAC: 11010045AA, Para: 1, Enviada: 2723.68, Recebida: 2723.701624, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;11010046AA;, HMAC: 11010046AA, Para: 1, Enviada: 2783.443, Recebida: 2783.454624, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;11010047AA;, HMAC: 11010047AA, Para: 1, Enviada: 2843.207, Recebida: 2843.244624, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;11010048AA;, HMAC: 11010048AA, Para: 1, Enviada: 2904.086, Recebida: 2904.119624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;11010049AA;, HMAC: 11010049AA, Para: 1, Enviada: 2964.766, Recebida: 2964.782624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;11010050AA;, HMAC: 11010050AA, Para: 1, Enviada: 3024.689, Recebida: 3024.715624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;11010051AA;, HMAC: 11010051AA, Para: 1, Enviada: 3085.044, Recebida: 3085.071624, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;11010052AA;, HMAC: 11010052AA, Para: 1, Enviada: 3144.535, Recebida: 3144.553624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;11010053AA;, HMAC: 11010053AA, Para: 1, Enviada: 3203.601, Recebida: 3203.641624, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;11010054AA;, HMAC: 11010054AA, Para: 1, Enviada: 3263.297, Recebida: 3263.334624, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;11010055AA;, HMAC: 11010055AA, Para: 1, Enviada: 3322.922, Recebida: 3322.953624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;11010056AA;, HMAC: 11010056AA, Para: 1, Enviada: 3383.15, Recebida: 3383.156624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;11010057AA;, HMAC: 11010057AA, Para: 1, Enviada: 3442.592, Recebida: 3442.604624, DELAY: 12 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;11010058AA;, HMAC: 11010058AA, Para: 1, Enviada: 3501.991, Recebida: 3502.022624, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;11010059AA;, HMAC: 11010059AA, Para: 1, Enviada: 3562.023, Recebida: 3562.050624, DELAY: 27 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 27 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 27 ms
+
+Conversas do Mote 12
+	Data Message: DM-0-018-TESTE MSG DE DADOS;12010000AA;, HMAC: 12010000AA, Para: 1, Enviada: 43.83, Recebida: 43.89188, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;12010001AA;, HMAC: 12010001AA, Para: 1, Enviada: 103.063, Recebida: 103.12488, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;12010002AA;, HMAC: 12010002AA, Para: 1, Enviada: 162.102, Recebida: 162.17188, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;12010003AA;, HMAC: 12010003AA, Para: 1, Enviada: 221.734, Recebida: 221.79988, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;12010004AA;, HMAC: 12010004AA, Para: 1, Enviada: 282.205, Recebida: 282.22888, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;12010005AA;, HMAC: 12010005AA, Para: 1, Enviada: 342.364, Recebida: 342.42788, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;12010006AA;, HMAC: 12010006AA, Para: 1, Enviada: 402.228, Recebida: 402.25088, DELAY: 22 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;12010007AA;, HMAC: 12010007AA, Para: 1, Enviada: 463.05, Recebida: 463.11888, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;12010008AA;, HMAC: 12010008AA, Para: 1, Enviada: 522.216, Recebida: 522.25488, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;12010009AA;, HMAC: 12010009AA, Para: 1, Enviada: 582.24, Recebida: 582.31688, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;12010010AA;, HMAC: 12010010AA, Para: 1, Enviada: 641.936, Recebida: 641.993912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;12010011AA;, HMAC: 12010011AA, Para: 1, Enviada: 701.59, Recebida: 701.623912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;12010012AA;, HMAC: 12010012AA, Para: 1, Enviada: 762.413, Recebida: 762.468912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;12010013AA;, HMAC: 12010013AA, Para: 1, Enviada: 821.831, Recebida: 821.892912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;12010014AA;, HMAC: 12010014AA, Para: 1, Enviada: 882.795, Recebida: 882.860912, DELAY: 65 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;12010015AA;, HMAC: 12010015AA, Para: 1, Enviada: 942.591, Recebida: 942.624912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;12010016AA;, HMAC: 12010016AA, Para: 1, Enviada: 1003.216, Recebida: 1003.236912, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;12010017AA;, HMAC: 12010017AA, Para: 1, Enviada: 1063.937, Recebida: 1064.009912, DELAY: 72 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;12010018AA;, HMAC: 12010018AA, Para: 1, Enviada: 1123.646, Recebida: 1123.693912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;12010019AA;, HMAC: 12010019AA, Para: 1, Enviada: 1182.999, Recebida: 1183.040912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;12010020AA;, HMAC: 12010020AA, Para: 1, Enviada: 1243.707, Recebida: 1243.764912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;12010021AA;, HMAC: 12010021AA, Para: 1, Enviada: 1303.026, Recebida: 1303.096912, DELAY: 70 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;12010022AA;, HMAC: 12010022AA, Para: 1, Enviada: 1364.025, Recebida: 1364.078912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;12010023AA;, HMAC: 12010023AA, Para: 1, Enviada: 1423.726, Recebida: 1423.776912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;12010024AA;, HMAC: 12010024AA, Para: 1, Enviada: 1482.785, Recebida: 1482.825912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;12010025AA;, HMAC: 12010025AA, Para: 1, Enviada: 1542.018, Recebida: 1542.063912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;12010026AA;, HMAC: 12010026AA, Para: 1, Enviada: 1601.22, Recebida: 1601.276912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;12010027AA;, HMAC: 12010027AA, Para: 1, Enviada: 1660.779, Recebida: 1660.815912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;12010028AA;, HMAC: 12010028AA, Para: 1, Enviada: 1720.466, Recebida: 1720.511912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;12010029AA;, HMAC: 12010029AA, Para: 1, Enviada: 1781.348, Recebida: 1781.427912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;12010030AA;, HMAC: 12010030AA, Para: 1, Enviada: 1840.421, Recebida: 1840.456912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;12010031AA;, HMAC: 12010031AA, Para: 1, Enviada: 1900.831, Recebida: 1900.870912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;12010032AA;, HMAC: 12010032AA, Para: 1, Enviada: 1960.196, Recebida: 1960.237912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;12010033AA;, HMAC: 12010033AA, Para: 1, Enviada: 2019.795, Recebida: 2019.829912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;12010034AA;, HMAC: 12010034AA, Para: 1, Enviada: 2080.154, Recebida: 2080.205912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;12010035AA;, HMAC: 12010035AA, Para: 1, Enviada: 2140.12, Recebida: 2140.161912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;12010036AA;, HMAC: 12010036AA, Para: 1, Enviada: 2199.449, Recebida: 2199.506912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;12010037AA;, HMAC: 12010037AA, Para: 1, Enviada: 2259.229, Recebida: 2259.301912, DELAY: 72 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;12010038AA;, HMAC: 12010038AA, Para: 1, Enviada: 2318.284, Recebida: 2318.347912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;12010039AA;, HMAC: 12010039AA, Para: 1, Enviada: 2377.451, Recebida: 2377.522912, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;12010040AA;, HMAC: 12010040AA, Para: 1, Enviada: 2437.567, Recebida: 2437.593912, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;12010041AA;, HMAC: 12010041AA, Para: 1, Enviada: 2498.401, Recebida: 2498.476912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;12010042AA;, HMAC: 12010042AA, Para: 1, Enviada: 2558.402, Recebida: 2558.434912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;12010043AA;, HMAC: 12010043AA, Para: 1, Enviada: 2618.611, Recebida: 2618.682912, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;12010044AA;, HMAC: 12010044AA, Para: 1, Enviada: 2678.117, Recebida: 2678.171912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;12010045AA;, HMAC: 12010045AA, Para: 1, Enviada: 2737.362, Recebida: 2737.385912, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;12010046AA;, HMAC: 12010046AA, Para: 1, Enviada: 2796.479, Recebida: 2796.555912, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;12010047AA;, HMAC: 12010047AA, Para: 1, Enviada: 2855.639, Recebida: 2855.684912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;12010048AA;, HMAC: 12010048AA, Para: 1, Enviada: 2915.586, Recebida: 2915.623912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;12010049AA;, HMAC: 12010049AA, Para: 1, Enviada: 2975.793, Recebida: 2975.853912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;12010050AA;, HMAC: 12010050AA, Para: 1, Enviada: 3035.66, Recebida: 3035.692912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;12010051AA;, HMAC: 12010051AA, Para: 1, Enviada: 3095.568, Recebida: 3095.642912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;12010052AA;, HMAC: 12010052AA, Para: 1, Enviada: 3154.58, Recebida: 3154.640912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;12010053AA;, HMAC: 12010053AA, Para: 1, Enviada: 3215.222, Recebida: 3215.255792, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;12010054AA;, HMAC: 12010054AA, Para: 1, Enviada: 3275.339, Recebida: 3275.378912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;12010055AA;, HMAC: 12010055AA, Para: 1, Enviada: 3335.505, Recebida: 3335.539912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;12010056AA;, HMAC: 12010056AA, Para: 1, Enviada: 3394.753, Recebida: 3394.791912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;12010057AA;, HMAC: 12010057AA, Para: 1, Enviada: 3453.871, Recebida: 3453.925912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;12010058AA;, HMAC: 12010058AA, Para: 1, Enviada: 3513.924, Recebida: 3513.991912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;12010059AA;, HMAC: 12010059AA, Para: 1, Enviada: 3573.467, Recebida: 3573.504912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 51 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 51 ms
+
+Conversas do Mote 13
+	Data Message: DM-0-018-TESTE MSG DE DADOS;13010000AA;, HMAC: 13010000AA, Para: 1, Enviada: 37.139, Recebida: 37.22588, DELAY: 86 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;13010001AA;, HMAC: 13010001AA, Para: 1, Enviada: 96.784, Recebida: 96.85588, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;13010002AA;, HMAC: 13010002AA, Para: 1, Enviada: 156.284, Recebida: 156.32788, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;13010003AA;, HMAC: 13010003AA, Para: 1, Enviada: 217.129, Recebida: 217.19588, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;13010004AA;, HMAC: 13010004AA, Para: 1, Enviada: 277.525, Recebida: 277.561728, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;13010005AA;, HMAC: 13010005AA, Para: 1, Enviada: 336.868, Recebida: 336.91888, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;13010006AA;, HMAC: 13010006AA, Para: 1, Enviada: 396.953, Recebida: 396.999728, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;13010007AA;, HMAC: 13010007AA, Para: 1, Enviada: 457.604, Recebida: 457.65788, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;13010008AA;, HMAC: 13010008AA, Para: 1, Enviada: 517.899, Recebida: 517.94988, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;13010009AA;, HMAC: 13010009AA, Para: 1, Enviada: 578.369, Recebida: 578.42688, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;13010010AA;, HMAC: 13010010AA, Para: 1, Enviada: 638.342, Recebida: 638.383912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;13010011AA;, HMAC: 13010011AA, Para: 1, Enviada: 697.578, Recebida: 697.618912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;13010012AA;, HMAC: 13010012AA, Para: 1, Enviada: 757.548, Recebida: 757.602912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;13010013AA;, HMAC: 13010013AA, Para: 1, Enviada: 817.463, Recebida: 817.488912, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;13010014AA;, HMAC: 13010014AA, Para: 1, Enviada: 877.058, Recebida: 877.118912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;13010015AA;, HMAC: 13010015AA, Para: 1, Enviada: 936.478, Recebida: 936.516792, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;13010016AA;, HMAC: 13010016AA, Para: 1, Enviada: 996.13, Recebida: 996.217912, DELAY: 87 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;13010017AA;, HMAC: 13010017AA, Para: 1, Enviada: 1057.04, Recebida: 1057.098912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;13010018AA;, HMAC: 13010018AA, Para: 1, Enviada: 1116.16, Recebida: 1116.219912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;13010019AA;, HMAC: 13010019AA, Para: 1, Enviada: 1176.722, Recebida: 1176.791912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;13010020AA;, HMAC: 13010020AA, Para: 1, Enviada: 1235.76, Recebida: 1235.818912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;13010021AA;, HMAC: 13010021AA, Para: 1, Enviada: 1295.807, Recebida: 1295.836912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;13010022AA;, HMAC: 13010022AA, Para: 1, Enviada: 1356.498, Recebida: 1356.522912, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;13010023AA;, HMAC: 13010023AA, Para: 1, Enviada: 1415.649, Recebida: 1415.674912, DELAY: 25 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;13010024AA;, HMAC: 13010024AA, Para: 1, Enviada: 1475.475, Recebida: 1475.511912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;13010025AA;, HMAC: 13010025AA, Para: 1, Enviada: 1534.909, Recebida: 1534.950912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;13010026AA;, HMAC: 13010026AA, Para: 1, Enviada: 1595.47, Recebida: 1595.512912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;13010027AA;, HMAC: 13010027AA, Para: 1, Enviada: 1654.615, Recebida: 1654.700912, DELAY: 85 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;13010028AA;, HMAC: 13010028AA, Para: 1, Enviada: 1714.895, Recebida: 1714.936912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;13010029AA;, HMAC: 13010029AA, Para: 1, Enviada: 1774.264, Recebida: 1774.288792, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;13010030AA;, HMAC: 13010030AA, Para: 1, Enviada: 1834.428, Recebida: 1834.472912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;13010031AA;, HMAC: 13010031AA, Para: 1, Enviada: 1895.126, Recebida: 1895.158912, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;13010032AA;, HMAC: 13010032AA, Para: 1, Enviada: 1954.571, Recebida: 1954.630912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;13010033AA;, HMAC: 13010033AA, Para: 1, Enviada: 2014.308, Recebida: 2014.369912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;13010034AA;, HMAC: 13010034AA, Para: 1, Enviada: 2073.854, Recebida: 2073.934912, DELAY: 80 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;13010035AA;, HMAC: 13010035AA, Para: 1, Enviada: 2134.42, Recebida: 2134.487912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;13010036AA;, HMAC: 13010036AA, Para: 1, Enviada: 2193.465, Recebida: 2193.502912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;13010037AA;, HMAC: 13010037AA, Para: 1, Enviada: 2252.756, Recebida: 2252.786912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;13010038AA;, HMAC: 13010038AA, Para: 1, Enviada: 2312.803, Recebida: 2312.869912, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;13010039AA;, HMAC: 13010039AA, Para: 1, Enviada: 2373.099, Recebida: 2373.160912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;13010040AA;, HMAC: 13010040AA, Para: 1, Enviada: 2433.421, Recebida: 2433.460912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;13010041AA;, HMAC: 13010041AA, Para: 1, Enviada: 2493.627, Recebida: 2493.702912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;13010042AA;, HMAC: 13010042AA, Para: 1, Enviada: 2553.687, Recebida: 2553.739912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;13010043AA;, HMAC: 13010043AA, Para: 1, Enviada: 2613.258, Recebida: 2613.295912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;13010044AA;, HMAC: 13010044AA, Para: 1, Enviada: 2672.649, Recebida: 2672.693912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;13010045AA;, HMAC: 13010045AA, Para: 1, Enviada: 2732.922, Recebida: 2732.997912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;13010046AA;, HMAC: 13010046AA, Para: 1, Enviada: 2793.791, Recebida: 2793.838912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;13010047AA;, HMAC: 13010047AA, Para: 1, Enviada: 2852.882, Recebida: 2852.933912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;13010048AA;, HMAC: 13010048AA, Para: 1, Enviada: 2912.675, Recebida: 2912.711912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;13010049AA;, HMAC: 13010049AA, Para: 1, Enviada: 2971.782, Recebida: 2971.844912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;13010050AA;, HMAC: 13010050AA, Para: 1, Enviada: 3031.9, Recebida: 3031.979912, DELAY: 79 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;13010051AA;, HMAC: 13010051AA, Para: 1, Enviada: 3092.162, Recebida: 3092.213912, DELAY: 51 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;13010052AA;, HMAC: 13010052AA, Para: 1, Enviada: 3151.579, Recebida: 3151.625912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;13010053AA;, HMAC: 13010053AA, Para: 1, Enviada: 3211.538, Recebida: 3211.608912, DELAY: 70 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;13010054AA;, HMAC: 13010054AA, Para: 1, Enviada: 3272.009, Recebida: 3272.026912, DELAY: 17 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;13010055AA;, HMAC: 13010055AA, Para: 1, Enviada: 3331.774, Recebida: 3331.842912, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;13010056AA;, HMAC: 13010056AA, Para: 1, Enviada: 3391.693, Recebida: 3391.767912, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;13010057AA;, HMAC: 13010057AA, Para: 1, Enviada: 3451.988, Recebida: 3452.037912, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;13010058AA;, HMAC: 13010058AA, Para: 1, Enviada: 3512.515, Recebida: 3512.578912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;13010059AA;, HMAC: 13010059AA, Para: 1, Enviada: 3573.296, Recebida: 3573.349912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 52 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 52 ms
+
+Conversas do Mote 14
+	Data Message: DM-0-018-TESTE MSG DE DADOS;14010000AA;, HMAC: 14010000AA, Para: 1, Enviada: 57.289, Recebida: 57.312592, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;14010001AA;, HMAC: 14010001AA, Para: 1, Enviada: 116.763, Recebida: 116.796592, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;14010002AA;, HMAC: 14010002AA, Para: 1, Enviada: 177.046, Recebida: 177.082592, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;14010003AA;, HMAC: 14010003AA, Para: 1, Enviada: 237.839, Recebida: 237.876592, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;14010004AA;, HMAC: 14010004AA, Para: 1, Enviada: 297.39, Recebida: 297.429592, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;14010005AA;, HMAC: 14010005AA, Para: 1, Enviada: 356.559, Recebida: 356.600592, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;14010006AA;, HMAC: 14010006AA, Para: 1, Enviada: 416.923, Recebida: 416.955592, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;14010007AA;, HMAC: 14010007AA, Para: 1, Enviada: 476.945, Recebida: 476.963592, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;14010008AA;, HMAC: 14010008AA, Para: 1, Enviada: 536.561, Recebida: 536.591592, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;14010009AA;, HMAC: 14010009AA, Para: 1, Enviada: 597.264, Recebida: 597.288592, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;14010010AA;, HMAC: 14010010AA, Para: 1, Enviada: 657.089, Recebida: 657.115624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;14010011AA;, HMAC: 14010011AA, Para: 1, Enviada: 716.823, Recebida: 716.849624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;14010012AA;, HMAC: 14010012AA, Para: 1, Enviada: 776.36, Recebida: 776.367624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;14010013AA;, HMAC: 14010013AA, Para: 1, Enviada: 836.844, Recebida: 836.872624, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;14010014AA;, HMAC: 14010014AA, Para: 1, Enviada: 896.561, Recebida: 896.594624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;14010015AA;, HMAC: 14010015AA, Para: 1, Enviada: 955.86, Recebida: 955.901624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;14010016AA;, HMAC: 14010016AA, Para: 1, Enviada: 1015.133, Recebida: 1015.175624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;14010017AA;, HMAC: 14010017AA, Para: 1, Enviada: 1075.633, Recebida: 1075.643624, DELAY: 10 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;14010018AA;, HMAC: 14010018AA, Para: 1, Enviada: 1135.783, Recebida: 1135.807624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;14010019AA;, HMAC: 14010019AA, Para: 1, Enviada: 1195.809, Recebida: 1195.815624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;14010020AA;, HMAC: 14010020AA, Para: 1, Enviada: 1255.707, Recebida: 1255.718624, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;14010021AA;, HMAC: 14010021AA, Para: 1, Enviada: 1315.226, Recebida: 1315.250624, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;14010022AA;, HMAC: 14010022AA, Para: 1, Enviada: 1375.704, Recebida: 1375.730624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;14010023AA;, HMAC: 14010023AA, Para: 1, Enviada: 1435.421, Recebida: 1435.463624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;14010024AA;, HMAC: 14010024AA, Para: 1, Enviada: 1495.796, Recebida: 1495.811624, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;14010025AA;, HMAC: 14010025AA, Para: 1, Enviada: 1555.486, Recebida: 1555.492624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;14010026AA;, HMAC: 14010026AA, Para: 1, Enviada: 1616.114, Recebida: 1616.155624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;14010027AA;, HMAC: 14010027AA, Para: 1, Enviada: 1677.025, Recebida: 1677.058624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;14010028AA;, HMAC: 14010028AA, Para: 1, Enviada: 1737.852, Recebida: 1737.872624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;14010029AA;, HMAC: 14010029AA, Para: 1, Enviada: 1798.36, Recebida: 1798.402624, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;14010030AA;, HMAC: 14010030AA, Para: 1, Enviada: 1858.93, Recebida: 1858.950624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;14010031AA;, HMAC: 14010031AA, Para: 1, Enviada: 1919.797, Recebida: 1919.836624, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;14010032AA;, HMAC: 14010032AA, Para: 1, Enviada: 1980.144, Recebida: 1980.155624, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;14010033AA;, HMAC: 14010033AA, Para: 1, Enviada: 2040.217, Recebida: 2040.230624, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;14010034AA;, HMAC: 14010034AA, Para: 1, Enviada: 2099.594, Recebida: 2099.627624, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;14010035AA;, HMAC: 14010035AA, Para: 1, Enviada: 2160.183, Recebida: 2160.224624, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;14010036AA;, HMAC: 14010036AA, Para: 1, Enviada: 2220.493, Recebida: 2220.513624, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;14010037AA;, HMAC: 14010037AA, Para: 1, Enviada: 2280.496, Recebida: 2280.541624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;14010038AA;, HMAC: 14010038AA, Para: 1, Enviada: 2340.243, Recebida: 2340.266624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;14010039AA;, HMAC: 14010039AA, Para: 1, Enviada: 2399.534, Recebida: 2399.579624, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;14010040AA;, HMAC: 14010040AA, Para: 1, Enviada: 2459.725, Recebida: 2459.768624, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;14010041AA;, HMAC: 14010041AA, Para: 1, Enviada: 2520.063, Recebida: 2520.101624, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;14010042AA;, HMAC: 14010042AA, Para: 1, Enviada: 2579.157, Recebida: 2579.201624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;14010043AA;, HMAC: 14010043AA, Para: 1, Enviada: 2638.899, Recebida: 2638.908624, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;14010044AA;, HMAC: 14010044AA, Para: 1, Enviada: 2699.666, Recebida: 2699.689624, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;14010045AA;, HMAC: 14010045AA, Para: 1, Enviada: 2760.619, Recebida: 2760.626624, DELAY: 7 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;14010046AA;, HMAC: 14010046AA, Para: 1, Enviada: 2821.474, Recebida: 2821.485624, DELAY: 11 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;14010047AA;, HMAC: 14010047AA, Para: 1, Enviada: 2882.456, Recebida: 2882.469624, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;14010048AA;, HMAC: 14010048AA, Para: 1, Enviada: 2942.685, Recebida: 2942.698624, DELAY: 13 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;14010049AA;, HMAC: 14010049AA, Para: 1, Enviada: 3003.138, Recebida: 3003.147624, DELAY: 9 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;14010050AA;, HMAC: 14010050AA, Para: 1, Enviada: 3062.2, Recebida: 3062.215624, DELAY: 15 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;14010051AA;, HMAC: 14010051AA, Para: 1, Enviada: 3122.52, Recebida: 3122.564624, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;14010052AA;, HMAC: 14010052AA, Para: 1, Enviada: 3182.977, Recebida: 3182.983624, DELAY: 6 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;14010053AA;, HMAC: 14010053AA, Para: 1, Enviada: 3242.085, Recebida: 3242.104624, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;14010054AA;, HMAC: 14010054AA, Para: 1, Enviada: 3302.434, Recebida: 3302.452624, DELAY: 18 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;14010055AA;, HMAC: 14010055AA, Para: 1, Enviada: 3363.227, Recebida: 3363.241624, DELAY: 14 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;14010056AA;, HMAC: 14010056AA, Para: 1, Enviada: 3422.888, Recebida: 3422.904624, DELAY: 16 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;14010057AA;, HMAC: 14010057AA, Para: 1, Enviada: 3482.227, Recebida: 3482.253624, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;14010058AA;, HMAC: 14010058AA, Para: 1, Enviada: 3543.027, Recebida: 3543.070624, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 26 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 26 ms
+
+Conversas do Mote 15
+	Data Message: DM-0-018-TESTE MSG DE DADOS;15010000AA;, HMAC: 15010000AA, Para: 1, Enviada: 44.039, Recebida: 44.10188, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;15010001AA;, HMAC: 15010001AA, Para: 1, Enviada: 103.048, Recebida: 103.10488, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;15010002AA;, HMAC: 15010002AA, Para: 1, Enviada: 162.709, Recebida: 162.76588, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;15010003AA;, HMAC: 15010003AA, Para: 1, Enviada: 222.883, Recebida: 222.95288, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;15010004AA;, HMAC: 15010004AA, Para: 1, Enviada: 283.689, Recebida: 283.72488, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;15010005AA;, HMAC: 15010005AA, Para: 1, Enviada: 342.717, Recebida: 342.76488, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;15010006AA;, HMAC: 15010006AA, Para: 1, Enviada: 402.483, Recebida: 402.50988, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;15010007AA;, HMAC: 15010007AA, Para: 1, Enviada: 462.558, Recebida: 462.61788, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;15010008AA;, HMAC: 15010008AA, Para: 1, Enviada: 523.546, Recebida: 523.56688, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;15010009AA;, HMAC: 15010009AA, Para: 1, Enviada: 583.275, Recebida: 583.34988, DELAY: 74 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;15010010AA;, HMAC: 15010010AA, Para: 1, Enviada: 643.834, Recebida: 643.863792, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;15010011AA;, HMAC: 15010011AA, Para: 1, Enviada: 703.799, Recebida: 703.882912, DELAY: 83 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;15010012AA;, HMAC: 15010012AA, Para: 1, Enviada: 764.579, Recebida: 764.607912, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;15010013AA;, HMAC: 15010013AA, Para: 1, Enviada: 825.344, Recebida: 825.370792, DELAY: 26 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;15010014AA;, HMAC: 15010014AA, Para: 1, Enviada: 885.796, Recebida: 885.832912, DELAY: 36 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;15010015AA;, HMAC: 15010015AA, Para: 1, Enviada: 945.398, Recebida: 945.431912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;15010016AA;, HMAC: 15010016AA, Para: 1, Enviada: 1006.147, Recebida: 1006.179792, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;15010017AA;, HMAC: 15010017AA, Para: 1, Enviada: 1066.727, Recebida: 1066.769912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;15010018AA;, HMAC: 15010018AA, Para: 1, Enviada: 1127.008, Recebida: 1127.049912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;15010019AA;, HMAC: 15010019AA, Para: 1, Enviada: 1186.753, Recebida: 1186.824912, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;15010020AA;, HMAC: 15010020AA, Para: 1, Enviada: 1246.747, Recebida: 1246.770912, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;15010021AA;, HMAC: 15010021AA, Para: 1, Enviada: 1306.527, Recebida: 1306.570912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;15010022AA;, HMAC: 15010022AA, Para: 1, Enviada: 1366.603, Recebida: 1366.655912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;15010023AA;, HMAC: 15010023AA, Para: 1, Enviada: 1425.795, Recebida: 1425.819912, DELAY: 24 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;15010024AA;, HMAC: 15010024AA, Para: 1, Enviada: 1484.91, Recebida: 1484.950912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;15010025AA;, HMAC: 15010025AA, Para: 1, Enviada: 1544.805, Recebida: 1544.881912, DELAY: 76 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;15010026AA;, HMAC: 15010026AA, Para: 1, Enviada: 1605.496, Recebida: 1605.550912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;15010027AA;, HMAC: 15010027AA, Para: 1, Enviada: 1665.265, Recebida: 1665.318912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;15010028AA;, HMAC: 15010028AA, Para: 1, Enviada: 1725.431, Recebida: 1725.471912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;15010029AA;, HMAC: 15010029AA, Para: 1, Enviada: 1784.814, Recebida: 1784.847912, DELAY: 33 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;15010030AA;, HMAC: 15010030AA, Para: 1, Enviada: 1844.051, Recebida: 1844.114912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;15010031AA;, HMAC: 15010031AA, Para: 1, Enviada: 1904.294, Recebida: 1904.336912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;15010032AA;, HMAC: 15010032AA, Para: 1, Enviada: 1965.259, Recebida: 1965.306912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;15010033AA;, HMAC: 15010033AA, Para: 1, Enviada: 2026.096, Recebida: 2026.154912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;15010034AA;, HMAC: 15010034AA, Para: 1, Enviada: 2085.377, Recebida: 2085.432912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;15010035AA;, HMAC: 15010035AA, Para: 1, Enviada: 2145.29, Recebida: 2145.313912, DELAY: 23 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;15010036AA;, HMAC: 15010036AA, Para: 1, Enviada: 2204.311, Recebida: 2204.350912, DELAY: 39 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;15010037AA;, HMAC: 15010037AA, Para: 1, Enviada: 2264.142, Recebida: 2264.210912, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;15010038AA;, HMAC: 15010038AA, Para: 1, Enviada: 2323.366, Recebida: 2323.407912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;15010039AA;, HMAC: 15010039AA, Para: 1, Enviada: 2383.007, Recebida: 2383.026792, DELAY: 19 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;15010040AA;, HMAC: 15010040AA, Para: 1, Enviada: 2443.676, Recebida: 2443.724912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;15010041AA;, HMAC: 15010041AA, Para: 1, Enviada: 2504.097, Recebida: 2504.140912, DELAY: 43 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;15010042AA;, HMAC: 15010042AA, Para: 1, Enviada: 2564.937, Recebida: 2564.997912, DELAY: 60 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;15010043AA;, HMAC: 15010043AA, Para: 1, Enviada: 2625.607, Recebida: 2625.676912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;15010044AA;, HMAC: 15010044AA, Para: 1, Enviada: 2685.048, Recebida: 2685.107912, DELAY: 59 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;15010045AA;, HMAC: 15010045AA, Para: 1, Enviada: 2745.01, Recebida: 2745.077912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;15010046AA;, HMAC: 15010046AA, Para: 1, Enviada: 2805.578, Recebida: 2805.606912, DELAY: 28 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;15010047AA;, HMAC: 15010047AA, Para: 1, Enviada: 2865.289, Recebida: 2865.331912, DELAY: 42 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;15010048AA;, HMAC: 15010048AA, Para: 1, Enviada: 2925.345, Recebida: 2925.429912, DELAY: 84 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;15010049AA;, HMAC: 15010049AA, Para: 1, Enviada: 2985.242, Recebida: 2985.296912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;15010050AA;, HMAC: 15010050AA, Para: 1, Enviada: 3044.743, Recebida: 3044.775792, DELAY: 32 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;15010051AA;, HMAC: 15010051AA, Para: 1, Enviada: 3104.871, Recebida: 3104.940912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;15010052AA;, HMAC: 15010052AA, Para: 1, Enviada: 3164.248, Recebida: 3164.309912, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;15010053AA;, HMAC: 15010053AA, Para: 1, Enviada: 3224.288, Recebida: 3224.335912, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;15010054AA;, HMAC: 15010054AA, Para: 1, Enviada: 3285.277, Recebida: 3285.359912, DELAY: 82 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;15010055AA;, HMAC: 15010055AA, Para: 1, Enviada: 3344.668, Recebida: 3344.745912, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;15010056AA;, HMAC: 15010056AA, Para: 1, Enviada: 3405.122, Recebida: 3405.208912, DELAY: 86 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;15010057AA;, HMAC: 15010057AA, Para: 1, Enviada: 3464.415, Recebida: 3464.472912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;15010058AA;, HMAC: 15010058AA, Para: 1, Enviada: 3525.285, Recebida: 3525.331792, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-59-018-TESTE MSG DE DADOS;15010059AA;, HMAC: 15010059AA, Para: 1, Enviada: 3586.075, Recebida: 3586.112912, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 49 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 49 ms
+
+Conversas do Mote 16
+	Data Message: DM-0-018-TESTE MSG DE DADOS;16010000AA;, HMAC: 16010000AA, Para: 1, Enviada: 91.604, Recebida: 91.62588, DELAY: 21 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-1-018-TESTE MSG DE DADOS;16010001AA;, HMAC: 16010001AA, Para: 1, Enviada: 151.137, Recebida: 151.18388, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-2-018-TESTE MSG DE DADOS;16010002AA;, HMAC: 16010002AA, Para: 1, Enviada: 211.539, Recebida: 211.59388, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-3-018-TESTE MSG DE DADOS;16010003AA;, HMAC: 16010003AA, Para: 1, Enviada: 270.84, Recebida: 270.92788, DELAY: 87 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-4-018-TESTE MSG DE DADOS;16010004AA;, HMAC: 16010004AA, Para: 1, Enviada: 330.181, Recebida: 330.23088, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-5-018-TESTE MSG DE DADOS;16010005AA;, HMAC: 16010005AA, Para: 1, Enviada: 390.451, Recebida: 390.51288, DELAY: 61 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-6-018-TESTE MSG DE DADOS;16010006AA;, HMAC: 16010006AA, Para: 1, Enviada: 450.324, Recebida: 450.39388, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-7-018-TESTE MSG DE DADOS;16010007AA;, HMAC: 16010007AA, Para: 1, Enviada: 509.709, Recebida: 509.78688, DELAY: 77 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-8-018-TESTE MSG DE DADOS;16010008AA;, HMAC: 16010008AA, Para: 1, Enviada: 568.736, Recebida: 568.77388, DELAY: 37 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-9-018-TESTE MSG DE DADOS;16010009AA;, HMAC: 16010009AA, Para: 1, Enviada: 628.559, Recebida: 628.62788, DELAY: 68 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-10-018-TESTE MSG DE DADOS;16010010AA;, HMAC: 16010010AA, Para: 1, Enviada: 688.648, Recebida: 688.682912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-11-018-TESTE MSG DE DADOS;16010011AA;, HMAC: 16010011AA, Para: 1, Enviada: 749.019, Recebida: 749.081912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-12-018-TESTE MSG DE DADOS;16010012AA;, HMAC: 16010012AA, Para: 1, Enviada: 808.673, Recebida: 808.703912, DELAY: 30 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-13-018-TESTE MSG DE DADOS;16010013AA;, HMAC: 16010013AA, Para: 1, Enviada: 867.884, Recebida: 867.919912, DELAY: 35 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-14-018-TESTE MSG DE DADOS;16010014AA;, HMAC: 16010014AA, Para: 1, Enviada: 927.464, Recebida: 927.539912, DELAY: 75 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-15-018-TESTE MSG DE DADOS;16010015AA;, HMAC: 16010015AA, Para: 1, Enviada: 987.377, Recebida: 987.448912, DELAY: 71 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-16-018-TESTE MSG DE DADOS;16010016AA;, HMAC: 16010016AA, Para: 1, Enviada: 1047.211, Recebida: 1047.240912, DELAY: 29 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-17-018-TESTE MSG DE DADOS;16010017AA;, HMAC: 16010017AA, Para: 1, Enviada: 1107.415, Recebida: 1107.464912, DELAY: 49 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-18-018-TESTE MSG DE DADOS;16010018AA;, HMAC: 16010018AA, Para: 1, Enviada: 1166.652, Recebida: 1166.708912, DELAY: 56 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-19-018-TESTE MSG DE DADOS;16010019AA;, HMAC: 16010019AA, Para: 1, Enviada: 1225.827, Recebida: 1225.872912, DELAY: 45 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-20-018-TESTE MSG DE DADOS;16010020AA;, HMAC: 16010020AA, Para: 1, Enviada: 1284.848, Recebida: 1284.918912, DELAY: 70 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-21-018-TESTE MSG DE DADOS;16010021AA;, HMAC: 16010021AA, Para: 1, Enviada: 1344.721, Recebida: 1344.808912, DELAY: 87 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-22-018-TESTE MSG DE DADOS;16010022AA;, HMAC: 16010022AA, Para: 1, Enviada: 1404.894, Recebida: 1404.949912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-23-018-TESTE MSG DE DADOS;16010023AA;, HMAC: 16010023AA, Para: 1, Enviada: 1464.328, Recebida: 1464.391912, DELAY: 63 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-24-018-TESTE MSG DE DADOS;16010024AA;, HMAC: 16010024AA, Para: 1, Enviada: 1523.47, Recebida: 1523.511792, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-25-018-TESTE MSG DE DADOS;16010025AA;, HMAC: 16010025AA, Para: 1, Enviada: 1583.451, Recebida: 1583.492912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-26-018-TESTE MSG DE DADOS;16010026AA;, HMAC: 16010026AA, Para: 1, Enviada: 1643.536, Recebida: 1643.580912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-27-018-TESTE MSG DE DADOS;16010027AA;, HMAC: 16010027AA, Para: 1, Enviada: 1704.329, Recebida: 1704.377912, DELAY: 48 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-28-018-TESTE MSG DE DADOS;16010028AA;, HMAC: 16010028AA, Para: 1, Enviada: 1764.455, Recebida: 1764.495912, DELAY: 40 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-29-018-TESTE MSG DE DADOS;16010029AA;, HMAC: 16010029AA, Para: 1, Enviada: 1824.793, Recebida: 1824.846912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-30-018-TESTE MSG DE DADOS;16010030AA;, HMAC: 16010030AA, Para: 1, Enviada: 1883.925, Recebida: 1884.006912, DELAY: 81 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-31-018-TESTE MSG DE DADOS;16010031AA;, HMAC: 16010031AA, Para: 1, Enviada: 1944.815, Recebida: 1944.881912, DELAY: 66 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-32-018-TESTE MSG DE DADOS;16010032AA;, HMAC: 16010032AA, Para: 1, Enviada: 2004.011, Recebida: 2004.080912, DELAY: 69 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-33-018-TESTE MSG DE DADOS;16010033AA;, HMAC: 16010033AA, Para: 1, Enviada: 2063.701, Recebida: 2063.748792, DELAY: 47 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-34-018-TESTE MSG DE DADOS;16010034AA;, HMAC: 16010034AA, Para: 1, Enviada: 2122.941, Recebida: 2122.975912, DELAY: 34 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-35-018-TESTE MSG DE DADOS;16010035AA;, HMAC: 16010035AA, Para: 1, Enviada: 2182.299, Recebida: 2182.345912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-36-018-TESTE MSG DE DADOS;16010036AA;, HMAC: 16010036AA, Para: 1, Enviada: 2242.928, Recebida: 2242.990912, DELAY: 62 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-37-018-TESTE MSG DE DADOS;16010037AA;, HMAC: 16010037AA, Para: 1, Enviada: 2302.381, Recebida: 2302.401912, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-38-018-TESTE MSG DE DADOS;16010038AA;, HMAC: 16010038AA, Para: 1, Enviada: 2361.511, Recebida: 2361.531912, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-39-018-TESTE MSG DE DADOS;16010039AA;, HMAC: 16010039AA, Para: 1, Enviada: 2421.792, Recebida: 2421.849912, DELAY: 57 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-40-018-TESTE MSG DE DADOS;16010040AA;, HMAC: 16010040AA, Para: 1, Enviada: 2481.461, Recebida: 2481.543912, DELAY: 82 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-41-018-TESTE MSG DE DADOS;16010041AA;, HMAC: 16010041AA, Para: 1, Enviada: 2541.399, Recebida: 2541.454912, DELAY: 55 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-42-018-TESTE MSG DE DADOS;16010042AA;, HMAC: 16010042AA, Para: 1, Enviada: 2601.604, Recebida: 2601.690912, DELAY: 86 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-43-018-TESTE MSG DE DADOS;16010043AA;, HMAC: 16010043AA, Para: 1, Enviada: 2661.939, Recebida: 2661.970912, DELAY: 31 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-44-018-TESTE MSG DE DADOS;16010044AA;, HMAC: 16010044AA, Para: 1, Enviada: 2722.928, Recebida: 2722.978912, DELAY: 50 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-45-018-TESTE MSG DE DADOS;16010045AA;, HMAC: 16010045AA, Para: 1, Enviada: 2783.108, Recebida: 2783.172912, DELAY: 64 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-46-018-TESTE MSG DE DADOS;16010046AA;, HMAC: 16010046AA, Para: 1, Enviada: 2842.351, Recebida: 2842.404912, DELAY: 53 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-47-018-TESTE MSG DE DADOS;16010047AA;, HMAC: 16010047AA, Para: 1, Enviada: 2901.871, Recebida: 2901.912912, DELAY: 41 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-48-018-TESTE MSG DE DADOS;16010048AA;, HMAC: 16010048AA, Para: 1, Enviada: 2961.033, Recebida: 2961.118912, DELAY: 85 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-49-018-TESTE MSG DE DADOS;16010049AA;, HMAC: 16010049AA, Para: 1, Enviada: 3020.041, Recebida: 3020.079912, DELAY: 38 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-50-018-TESTE MSG DE DADOS;16010050AA;, HMAC: 16010050AA, Para: 1, Enviada: 3080.701, Recebida: 3080.755912, DELAY: 54 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-51-018-TESTE MSG DE DADOS;16010051AA;, HMAC: 16010051AA, Para: 1, Enviada: 3141.221, Recebida: 3141.267912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-52-018-TESTE MSG DE DADOS;16010052AA;, HMAC: 16010052AA, Para: 1, Enviada: 3200.749, Recebida: 3200.807912, DELAY: 58 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-53-018-TESTE MSG DE DADOS;16010053AA;, HMAC: 16010053AA, Para: 1, Enviada: 3259.855, Recebida: 3259.907912, DELAY: 52 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-54-018-TESTE MSG DE DADOS;16010054AA;, HMAC: 16010054AA, Para: 1, Enviada: 3319.298, Recebida: 3319.365912, DELAY: 67 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-55-018-TESTE MSG DE DADOS;16010055AA;, HMAC: 16010055AA, Para: 1, Enviada: 3378.5, Recebida: 3378.580912, DELAY: 80 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-56-018-TESTE MSG DE DADOS;16010056AA;, HMAC: 16010056AA, Para: 1, Enviada: 3439.009, Recebida: 3439.053912, DELAY: 44 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-57-018-TESTE MSG DE DADOS;16010057AA;, HMAC: 16010057AA, Para: 1, Enviada: 3499.433, Recebida: 3499.479912, DELAY: 46 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+	Data Message: DM-58-018-TESTE MSG DE DADOS;16010058AA;, HMAC: 16010058AA, Para: 1, Enviada: 3559.756, Recebida: 3559.776792, DELAY: 20 ms, ACK: null, Enviado: null, Recebido: ACK NAO RECEBIDO
+PERDA MENSAGENS DE DADOS: 0.00 %
+PERDA ACKS: 100 %
+PERDA TOTAL: 0.00 %
+DELAY MÉDIO DE MENSAGENS DE DADOS: 53 ms
+DELAY MÉDIO DE ACKS: -----------
+DELAY MÉDIO TOTAL: 53 ms
+
+
+
+IMPRIMINDO TABELA DE DELAYS
+2;23.00;27.00;9.00;13.00;66.00;23.00;6.00;28.00;19.00;22.00;24.00;42.00;38.00;30.00;23.00;28.00;33.00;38.00;31.00;39.00;33.00;46.00;42.00;12.00;32.00;44.00;16.00;38.00;8.00;21.00;18.00;32.00;30.00;44.00;29.00;32.00;16.00;38.00;26.00;42.00;19.00;45.00;15.00;25.00;45.00;33.00;17.00;20.00;46.00;34.00;39.00;44.00;36.00;8.00;35.00;29.00;16.00;36.00;6.00
+3;64.00;78.00;29.00;67.00;58.00;39.00;84.00;49.00;80.00;23.00;30.00;47.00;51.00;42.00;82.00;34.00;75.00;33.00;43.00;65.00;50.00;56.00;79.00;59.00;54.00;84.00;60.00;65.00;156.00;36.00;21.00;48.00;14.00;45.00;46.00;46.00;63.00;60.00;69.00;32.00;64.00;62.00;31.00;17.00;52.00;109.00;29.00;40.00;56.00;89.00;31.00;59.00;55.00;42.00;57.00;29.00;76.00;45.00;73.00;52.00
+4;42.00;44.00;59.00;20.00;89.00;61.00;54.00;65.00;25.00;38.00;75.00;48.00;48.00;74.00;29.00;54.00;48.00;55.00;73.00;75.00;39.00;49.00;36.00;71.00;59.00;61.00;29.00;43.00;67.00;72.00;55.00;54.00;21.00;77.00;21.00;52.00;76.00;62.00;32.00;29.00;50.00;55.00;52.00;42.00;47.00;64.00;55.00;15.00;77.00;40.00;42.00;60.00;54.00;63.00;31.00;57.00;68.00;57.00;29.00
+5;28.00;18.00;41.00;6.00;38.00;30.00;15.00;11.00;26.00;13.00;37.00;38.00;32.00;7.00;19.00;25.00;10.00;12.00;38.00;20.00;13.00;30.00;24.00;14.00;23.00;24.00;33.00;52.00;12.00;29.00;26.00;10.00;19.00;46.00;21.00;32.00;7.00;11.00;15.00;24.00;7.00;39.00;37.00;9.00;27.00;40.00;37.00;39.00;6.00;41.00;8.00;12.00;28.00;23.00;46.00;26.00;32.00;39.00;26.00;33.00
+6;21.00;85.00;48.00;50.00;55.00;41.00;61.00;65.00;24.00;83.00;42.00;55.00;41.00;73.00;61.00;36.00;55.00;23.00;77.00;50.00;30.00;59.00;38.00;42.00;61.00;30.00;23.00;24.00;36.00;66.00;85.00;34.00;79.00;36.00;37.00;75.00;67.00;55.00;64.00;42.00;43.00;43.00;62.00;22.00;39.00;44.00;65.00;57.00;41.00;81.00;53.00;56.00;46.00;40.00;74.00;54.00;26.00;44.00;69.00
+7;57.00;24.00;44.00;55.00;55.00;73.00;77.00;40.00;71.00;27.00;45.00;64.00;51.00;23.00;52.00;24.00;36.00;68.00;51.00;46.00;74.00;51.00;59.00;36.00;19.00;54.00;39.00;65.00;32.00;66.00;18.00;58.00;55.00;64.00;32.00;64.00;74.00;84.00;46.00;118.00;51.00;48.00;64.00;54.00;51.00;40.00;28.00;30.00;48.00;35.00;65.00;54.00;44.00;36.00;67.00;69.00;69.00;27.00;55.00
+8;37.00;39.00;27.00;8.00;17.00;27.00;45.00;24.00;6.00;35.00;26.00;31.00;9.00;31.00;46.00;46.00;31.00;42.00;29.00;40.00;30.00;42.00;22.00;45.00;39.00;45.00;41.00;20.00;12.00;46.00;28.00;19.00;19.00;36.00;20.00;23.00;32.00;42.00;22.00;17.00;19.00;18.00;16.00;26.00;31.00;18.00;40.00;17.00;35.00;38.00;6.00;30.00;22.00;18.00;28.00;45.00;75.00;25.00;19.00
+9;58.00;66.00;75.00;52.00;41.00;55.00;56.00;36.00;63.00;51.00;55.00;53.00;47.00;66.00;75.00;27.00;34.00;59.00;48.00;22.00;43.00;58.00;51.00;79.00;45.00;37.00;32.00;81.00;49.00;37.00;38.00;41.00;63.00;57.00;54.00;67.00;39.00;25.00;69.00;50.00;55.00;81.00;40.00;70.00;56.00;35.00;39.00;52.00;72.00;62.00;51.00;62.00;59.00;60.00;73.00;83.00;79.00;51.00;65.00
+10;75.00;59.00;53.00;30.00;39.00;26.00;45.00;79.00;28.00;54.00;76.00;89.00;44.00;49.00;22.00;46.00;53.00;41.00;77.00;39.00;18.00;79.00;38.00;53.00;25.00;69.00;30.00;48.00;30.00;45.00;60.00;52.00;42.00;34.00;36.00;62.00;56.00;52.00;59.00;152.00;67.00;96.00;74.00;46.00;37.00;39.00;33.00;50.00;35.00;27.00;52.00;38.00;83.00;19.00;40.00;35.00;29.00;40.00;58.00
+11;6.00;7.00;30.00;9.00;6.00;13.00;6.00;16.00;6.00;26.00;24.00;35.00;25.00;40.00;42.00;45.00;6.00;36.00;32.00;38.00;46.00;40.00;36.00;35.00;33.00;7.00;38.00;44.00;17.00;6.00;20.00;41.00;10.00;13.00;28.00;14.00;117.00;10.00;45.00;31.00;14.00;46.00;20.00;23.00;43.00;21.00;11.00;37.00;33.00;16.00;26.00;27.00;18.00;40.00;37.00;31.00;6.00;12.00;31.00;27.00
+12;61.00;61.00;69.00;65.00;23.00;63.00;22.00;68.00;38.00;76.00;57.00;33.00;55.00;61.00;65.00;33.00;20.00;72.00;47.00;41.00;57.00;70.00;53.00;50.00;40.00;45.00;56.00;36.00;45.00;79.00;35.00;39.00;41.00;34.00;51.00;41.00;57.00;72.00;63.00;71.00;26.00;75.00;32.00;71.00;54.00;23.00;76.00;45.00;37.00;60.00;32.00;74.00;60.00;33.00;39.00;34.00;38.00;54.00;67.00;37.00
+13;86.00;71.00;43.00;66.00;36.00;50.00;46.00;53.00;50.00;57.00;41.00;40.00;54.00;25.00;60.00;38.00;87.00;58.00;59.00;69.00;58.00;29.00;24.00;25.00;36.00;41.00;42.00;85.00;41.00;24.00;44.00;32.00;59.00;61.00;80.00;67.00;37.00;30.00;66.00;61.00;39.00;75.00;52.00;37.00;44.00;75.00;47.00;51.00;36.00;62.00;79.00;51.00;46.00;70.00;17.00;68.00;74.00;49.00;63.00;53.00
+14;23.00;33.00;36.00;37.00;39.00;41.00;32.00;18.00;30.00;24.00;26.00;26.00;7.00;28.00;33.00;41.00;42.00;10.00;24.00;6.00;11.00;24.00;26.00;42.00;15.00;6.00;41.00;33.00;20.00;42.00;20.00;39.00;11.00;13.00;33.00;41.00;20.00;45.00;23.00;45.00;43.00;38.00;44.00;9.00;23.00;7.00;11.00;13.00;13.00;9.00;15.00;44.00;6.00;19.00;18.00;14.00;16.00;26.00;43.00
+15;62.00;56.00;56.00;69.00;35.00;47.00;26.00;59.00;20.00;74.00;29.00;83.00;28.00;26.00;36.00;33.00;32.00;42.00;41.00;71.00;23.00;43.00;52.00;24.00;40.00;76.00;54.00;53.00;40.00;33.00;63.00;42.00;47.00;58.00;55.00;23.00;39.00;68.00;41.00;19.00;48.00;43.00;60.00;69.00;59.00;67.00;28.00;42.00;84.00;54.00;32.00;69.00;61.00;47.00;82.00;77.00;86.00;57.00;46.00;37.00
+16;21.00;46.00;54.00;87.00;49.00;61.00;69.00;77.00;37.00;68.00;34.00;62.00;30.00;35.00;75.00;71.00;29.00;49.00;56.00;45.00;70.00;87.00;55.00;63.00;41.00;41.00;44.00;48.00;40.00;53.00;81.00;66.00;69.00;47.00;34.00;46.00;62.00;20.00;20.00;57.00;82.00;55.00;86.00;31.00;50.00;64.00;53.00;41.00;85.00;38.00;54.00;46.00;58.00;52.00;67.00;80.00;44.00;46.00;20.00
+DELAY MINIMO DE MSGS DE DADOS DE TODOS OS MOTES: 6 ms
+DELAY MAXIMO DE MSGS DE DADOS DE TODOS OS MOTES: 156 ms
+DELAY MEDIO DE MSGS DE DADOS DE TODOS OS MOTES: 43,54 ms
+DESVIO PADRÃO DO DELAY: 20,613736269969497
+
+
+IMPRIMINDO TABELA DE DELAYS RTT
+2;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+3;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+4;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+5;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+6;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+7;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+8;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+9;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+10;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+11;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+12;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+13;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+14;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+15;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+16;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----;----
+NAO FOI POSSIVEL CALCULAR MAIS DADOS RTT POIS avgRTTDelay VEIO NULO - PROVAVELMENTE O ENVIO DE ACKS ESTAVA DESATIVADO
+
+
+IMPRIMINDO TABELA DE PERDAS
+2;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+3;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+4;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+5;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+6;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+7;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+8;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+9;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+10;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+11;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+12;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+13;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+14;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+15;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+16;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00;0,00
+PERDA MEDIA DE MSGS DE DADOS DE TODOS OS MOTES: 0,00000%
+
+
+IMPRIMINDO PAIS DOS NOS
+NO 2, PAI: 1
+NO 3, PAI: 2
+NO 4, PAI: 2
+NO 5, PAI: 1
+NO 6, PAI: 5
+NO 7, PAI: 5
+NO 8, PAI: 1
+NO 9, PAI: 8
+NO 10, PAI: 8
+NO 11, PAI: 1
+NO 12, PAI: 11
+NO 13, PAI: 11
+NO 14, PAI: 1
+NO 15, PAI: 14
+NO 16, PAI: 14
+
+
+PAI: 1, FILHOS: 2, 5, 8, 11, 14, 
+PAI: 2, FILHOS: 3, 4, 
+PAI: 5, FILHOS: 6, 7, 
+PAI: 8, FILHOS: 9, 10, 
+PAI: 11, FILHOS: 12, 13, 
+PAI: 14, FILHOS: 15, 16, 
+
+
+NOS AFETADOS PELO ATAQUE (ATACANTES: [2, 8])
+ATACANTE: 2 AFETOU : [3, 4]
+ATACANTE: 8 AFETOU : [9, 10]
+TOTAL DE NOS AFETADOS: 4
+OBS: CONSIDERANDO OS NOS ATACANTES COMO AFETADOS, SE FOREM FILHOS DE OUTROS ATACANTES
+
+
+
+
+
+
+
+
